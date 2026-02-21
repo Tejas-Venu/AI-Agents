@@ -36,7 +36,7 @@ These commands are handled at the **graph routing level**, not by the LLM.
 
 ---
 
-## Compare the graph diagrams of the two programs.  How do they differ if at all?
+### Compare the graph diagrams of the two programs.  How do they differ if at all?
 
 ### ToolNode Graph
 
@@ -59,7 +59,7 @@ input → agent → output → trim_history → input
 
 ---
 
-## What is an example of a case where the structure imposed by the LangChain react agent is too restrictive and you'd want to pursue the toolnode approach?
+### What is an example of a case where the structure imposed by the LangChain react agent is too restrictive and you'd want to pursue the toolnode approach?
 A good example is a research assistant that must gather evidence from multiple sources at the same time.
 
 Suppose a user asks:
@@ -90,7 +90,7 @@ ToolNode is better for complex workflows.
 
 ---
 
-# YouTube Transcript Analyzer
+## YouTube Transcript Analyzer
 This project implements an AI pipeline that:
 
 1. Extracts a YouTube video ID  
