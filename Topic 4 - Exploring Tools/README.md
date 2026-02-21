@@ -59,9 +59,26 @@ input → agent → output → trim_history → input
 
 ---
 
-## When ToolNode Is Preferred
-Use ToolNode when you need:
+## What is an example of a case where the structure imposed by the LangChain react agent is too restrictive and you'd want to pursue the toolnode approach?
+A good example is a research assistant that must gather evidence from multiple sources at the same time.
 
+Suppose a user asks:
+“Is claim X supported by scientific research?”
+
+The system needs to:
+- Query a scholarly API
+- Perform a web search
+- Check an internal database
+
+All three calls are independent and can run in parallel. After retrieving results, the system must:
+- Merge and de-duplicate sources
+- Filter by confidence score
+- Retry failed calls
+- Use a fallback source if needed
+
+ReAct is restrictive here because it executes tools sequentially in a thought → action → observation loop. This makes parallel execution and custom merging logic difficult.
+
+Use ToolNode when you need:
 - Parallel tool calls
 - Aggregation of multiple tool outputs
 - Custom retry/timeout logic
