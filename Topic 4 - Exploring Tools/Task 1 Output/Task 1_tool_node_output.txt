@@ -1,0 +1,67 @@
+================================================================================
+LangGraph Manual Tool Calling - Persistent Multi-Turn Conversation
+================================================================================
+
+This system uses manual tool calling with ToolNode:
+  - call_model: Invokes LLM with tool bindings
+  - ToolNode: Executes requested tools in parallel
+  - Loop: tools -> call_model (until no more tools needed)
+  - Single persistent conversation across all turns
+  - History managed automatically (trimmed after 100 messages)
+
+Commands:
+  - Type 'quit' or 'exit' to end the conversation
+  - Type 'verbose' to enable detailed tracing
+  - Type 'quiet' to disable detailed tracing
+
+Available tools:
+  - get_weather(location): Get weather information
+  - get_population(city): Get population data
+  - calculate(expression): Evaluate math expressions
+================================================================================
+[SYSTEM] Conversation graph created successfully (using manual ToolNode)
+[SYSTEM] Graph visualization saved to 'langchain_manual_tool_graph.png'
+
+[SYSTEM] Starting conversation...
+
+
+================================================================================
+NODE: input_node
+================================================================================
+
+You: Weather in New York
+[DEBUG] User input: Weather in New York
+[DEBUG] Routing to call_model
+
+================================================================================
+NODE: call_model
+================================================================================
+[DEBUG] Calling model with 1 messages
+[DEBUG] Added system prompt
+[DEBUG] Model requested 1 tool call(s):
+  - get_weather({'location': 'New York'})
+[DEBUG] Routing to tools
+
+================================================================================
+NODE: call_model
+================================================================================
+[DEBUG] Calling model with 4 messages
+[DEBUG] Added system prompt
+[DEBUG] Model response (no tools): The current weather in New York is sunny, with a temperature of 72°F and light winds....
+[DEBUG] Routing to output
+
+================================================================================
+NODE: output_node
+================================================================================
+
+Assistant: The current weather in New York is sunny, with a temperature of 72°F and light winds.
+
+================================================================================
+NODE: input_node
+================================================================================
+
+You: exit
+[DEBUG] Exit command received
+[DEBUG] Routing to END (exit requested)
+
+[SYSTEM] Conversation ended. Goodbye!
