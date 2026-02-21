@@ -1,6 +1,6 @@
 # Topic 4 – Exploring Tools
 
-This module explores how AI agents use tools, compares **ToolNode vs ReAct agents**, and implements a practical **YouTube Educational Video Analyzer**.
+This module explores how AI agents use tools, compares **ToolNode vs ReAct agents** and implements a practical **YouTube Educational Video Analyzer**.
 
 ---
 
@@ -26,13 +26,21 @@ Parallel dispatch is most useful for:
 
 ### How do the two programs handle special inputs such as "verbose" and "exit"?
 
-Both programs use an `input_node` that:
+Both programs handle special inputs like **"verbose"** and **"exit"** at the graph control level, not inside the language model.
+When a user types something, the system first sends the input to a dedicated **input node**. That node checks whether the text is a control command rather than a normal question.
+- If the user types **"exit"** or **"quit"**, the system does not call the LLM. Instead, it immediately routes the graph to the `END` state. The conversation stops cleanly.
+- If the user types **"verbose"** or **"quiet"**, the system toggles a debug flag in the conversation state and loops back to the input node. Again, the LLM is never called. The effect is immediate because it is handled by the graph’s routing logic.
+- If the input is normal text, the system routes to the model (or agent) node, which invokes the LLM.
 
-- Detects `exit` / `quit` → routes to `END`
-- Detects `verbose` / `quiet` → toggles debug mode and loops back to input
-- Otherwise → routes to the model or agent
+So the key idea is:
+These special commands are intercepted before they reach the model. The graph itself decides what to do next. The LLM never has to interpret control instructions like "exit" or "verbose".
 
-These commands are handled at the **graph routing level**, not by the LLM.
+This design makes the system:
+- Deterministic (commands always work)
+- Faster (no unnecessary model calls)
+- Cleaner (separation between control flow and language reasoning)
+
+That is how both programs handle special inputs.
 
 ---
 
@@ -42,18 +50,16 @@ These commands are handled at the **graph routing level**, not by the LLM.
 
 input → call_model → tools → call_model → output → trim_history → input
 
-- Tools are separate nodes
-- Explicit model ↔ tools loop
-- Parallel execution visible in graph
-- Fine-grained orchestration control
+In this design the conversation loop explicitly shows a separate step for running tools. After the user input goes to the model, the model can request tools; those tool calls are executed in their own step and the results are fed back into the model so it can continue reasoning. Because tools are a distinct part of the flow, you can run many of them at once, decide how to merge results, retry failed calls, apply timeouts, and inspect raw outputs before the model sees them. The diagram looks more detailed and shows the model and tool-execution as two distinct, back-and-forth pieces.
 
 ### ReAct Agent Graph
 input → agent → output → trim_history → input
 
+The user input goes into a single agent node that internally handles thinking, deciding to call tools, observing their outputs, and continuing — all inside the agent. The outer graph only sees “agent did work, now output.” That makes the visual flow cleaner and the code simpler, but the tool orchestration is hidden inside the agent and you have less direct control over parallelism, merging, or custom error handling.
 
-- Tool logic handled inside the `agent`
-- Cleaner wrapper graph
-- Less direct control over tool execution
+### Difference between ToolNode and ReAct:
+- The ToolNode graph is more explicit and more flexible: you can easily do parallel calls, aggregations, retries, and custom merging outside the LLM.
+- The ReAct graph is simpler and more compact, which is great for straightforward, sequential tool use, but it’s less transparent and less controllable for complex orchestration.
 
 ---
 
