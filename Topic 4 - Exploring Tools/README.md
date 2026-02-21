@@ -47,8 +47,6 @@ input → call_model → tools → call_model → output → trim_history → in
 - Parallel execution visible in graph
 - Fine-grained orchestration control
 
----
-
 ### ReAct Agent Graph
 input → agent → output → trim_history → input
 
