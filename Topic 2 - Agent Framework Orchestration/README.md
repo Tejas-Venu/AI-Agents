@@ -13,6 +13,38 @@ It demonstrates:
 
 ---
 
+## Table of Contents
+
+- [Task 1 : Running and Understanding `langgraph_simple_llama_agent.py`](#task-1--running-and-understanding-langgraph_simple_llama_agentpy)
+  - [Architecture](#architecture)
+  - [Verbose / Quiet Mode](#verbose--quiet-mode)
+
+- [Task 2 : Handling Empty Input](#task-2--handling-empty-input)
+  - [Observed Behavior](#observed-behavior)
+  - [Proper LangGraph Fix](#proper-langgraph-fix)
+
+- [Task 3 : Parallel Execution: Llama + Qwen](#task-3--parallel-execution-llama--qwen)
+
+- [Task 4 : Conditional Model Switching](#task-4--conditional-model-switching)
+
+- [Task 5 : Adding Chat History (Message API)](#task-5--adding-chat-history-message-api)
+
+- [Task 6 : Multi-Agent Shared History (Human + Llama + Qwen)](#task-6--multi-agent-shared-history-human--llama--qwen)
+  - [Problem](#problem)
+  - [Solution](#solution)
+  - [Example](#example)
+
+- [Task 7 : Checkpointing and Crash Recovery](#task-7--checkpointing-and-crash-recovery)
+  - [Restart Behavior](#restart-behavior)
+  - [What This Demonstrates](#what-this-demonstrates)
+  - [Example Conversation](#example-conversation)
+
+- [Architectural Evolution](#-architectural-evolution)
+
+- [Conclusion](#-conclusion)
+
+---
+
 # Task 1 : Running and Understanding `langgraph_simple_llama_agent.py`
 
 The initial program:
