@@ -1,4 +1,4 @@
-# LangGraph Multi-Agent Development Project
+# Agent Framework Orchestration
 
 This project incrementally builds a **LangGraph-based multi-agent conversational system** using Hugging Face LLMs (Llama and Qwen).
 
