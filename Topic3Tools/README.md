@@ -1,4 +1,5 @@
-# Agent Tool Use — Portfolio README
+# Topic 3 - Agent Tool Use
+
 ---
 
 ## Table of Contents
