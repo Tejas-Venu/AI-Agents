@@ -1,4 +1,4 @@
-# Agent Framework Orchestration
+# Topic 2 - Agent Framework Orchestration
 
 This project incrementally builds a **LangGraph-based multi-agent conversational system** using Hugging Face LLMs (Llama and Qwen).
 
