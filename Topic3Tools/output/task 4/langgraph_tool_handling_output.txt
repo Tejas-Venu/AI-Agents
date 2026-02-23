@@ -1,0 +1,99 @@
+======================================================================
+Test for: What's the weather like in San Francisco?
+User: What's the weather like in San Francisco?
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: get_weather
+  Args: {'location': 'San Francisco'}
+  Result: Sunny, 72°F
+
+--- Iteration 2 ---
+Assistant: The weather in San Francisco is sunny with a temperature of 72°F.
+
+
+
+======================================================================
+Test for: Say hello!
+User: Say hello!
+
+--- Iteration 1 ---
+Assistant: Hello! How can I assist you today?
+
+
+
+======================================================================
+Test for: How many s are in Mississippi riverboats?
+User: How many s are in Mississippi riverboats?
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: count_letter
+  Args: {'text': 'Mississippi riverboats', 'letter': 's'}
+  Result: 5
+
+--- Iteration 2 ---
+Assistant: There are 5 occurrences of the letter "s" in "Mississippi riverboats."
+
+
+
+======================================================================
+Test for: Are there more i's than s's in Mississippi riverboats?
+User: Are there more i's than s's in Mississippi riverboats?
+
+--- Iteration 1 ---
+LLM wants to call 2 tool(s)
+  Tool: count_letter
+  Args: {'text': 'Mississippi riverboats', 'letter': 'i'}
+  Result: 5
+  Tool: count_letter
+  Args: {'text': 'Mississippi riverboats', 'letter': 's'}
+  Result: 5
+
+--- Iteration 2 ---
+Assistant: In "Mississippi riverboats," there are 5 occurrences of the letter 'i' and 5 occurrences of the letter 's'. Therefore, the number of 'i's is equal to the number of 's's.
+
+
+
+======================================================================
+Test for: What is the sin of the difference between the number of i's and the number of s's in Mississippi riverboats?
+User: What is the sin of the difference between the number of i's and the number of s's in Mississippi riverboats?
+
+--- Iteration 1 ---
+LLM wants to call 2 tool(s)
+  Tool: count_letter
+  Args: {'text': 'Mississippi riverboats', 'letter': 'i'}
+  Result: 5
+  Tool: count_letter
+  Args: {'text': 'Mississippi riverboats', 'letter': 's'}
+  Result: 5
+
+--- Iteration 2 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Args: {'raw': '{"expr":"5-5"}'}
+  Result: {"result": 0, "expression": "5-5"}
+
+--- Iteration 3 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Args: {'raw': '{"operation":"sin","x":"0"}'}
+  Result: {"result": 0.0}
+
+--- Iteration 4 ---
+Assistant: The difference between the number of 'i's and the number of 's's in "Mississippi riverboats" is \(0\). Therefore, the sine of that difference is \(0.0\).
+
+
+
+======================================================================
+Test for: Compute the area of a circle with radius 3
+User: Compute the area of a circle with radius 3
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Args: {'raw': '{"operation":"area_circle","radius":3}'}
+  Result: {"result": 28.274333882308138}
+
+--- Iteration 2 ---
+Assistant: The area of a circle with a radius of 3 is approximately 28.27 square units.

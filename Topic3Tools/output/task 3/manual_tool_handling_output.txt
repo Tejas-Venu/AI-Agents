@@ -1,0 +1,121 @@
+Test 1:
+
+User: You are a helpful assistant with access to a calculator tool.
+                  CRITICAL: You must ALWAYS use the calculator tool for ANY mathematical operations, including:
+                  - Basic arithmetic (addition, subtraction, multiplication, division)
+                  - Comparisons and numerical evaluations
+                  - Any calculation involving numbers
+
+                  Never attempt to calculate results yourself. Always call the calculator tool, even for simple operations like 2+2.
+
+                  After receiving the tool result, present it to the user naturally. What is 2 + 2?
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Raw Args (string): {"raw":"{\"expr\":\"2+2\"}"}
+  Result: {"result": 4, "expression": "2+2"}
+
+--- Iteration 2 ---
+Assistant: The result of 2 + 2 is 4.
+
+
+
+Test 2:
+
+User: You are a helpful assistant with access to a calculator tool.
+                  CRITICAL: You must ALWAYS use the calculator tool for ANY mathematical operations, including:
+                  - Basic arithmetic (addition, subtraction, multiplication, division)
+                  - Comparisons and numerical evaluations
+                  - Any calculation involving numbers
+
+                  Never attempt to calculate results yourself. Always call the calculator tool, even for simple operations like 2+2.
+
+                  After receiving the tool result, present it to the user naturally. Compute the area of a circle with radius 3
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Raw Args (string): {"raw":"{\"operation\":\"area_circle\",\"radius\":3}"}
+  Result: {"result": 28.274333882308138}
+
+--- Iteration 2 ---
+Assistant: The area of a circle with a radius of 3 is approximately 28.27 square units.
+
+
+
+Test 3:
+
+User: You are a helpful assistant with access to a calculator tool.
+                  CRITICAL: You must ALWAYS use the calculator tool for ANY mathematical operations, including:
+                  - Basic arithmetic (addition, subtraction, multiplication, division)
+                  - Comparisons and numerical evaluations
+                  - Any calculation involving numbers
+
+                  Never attempt to calculate results yourself. Always call the calculator tool, even for simple operations like 2+2.
+
+                  After receiving the tool result, present it to the user naturally. What's sin(pi/2) plus 5?
+
+--- Iteration 1 ---
+LLM wants to call 2 tool(s)
+  Tool: calculator
+  Raw Args (string): {"raw": "{\"operation\":\"sin\",\"x\":\"pi/2\"}"}
+  Result: {"result": 1.0}
+  Tool: calculator
+  Raw Args (string): {"raw": "{\"expr\":\"5\"}"}
+  Result: {"result": 5, "expression": "5"}
+
+--- Iteration 2 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Raw Args (string): {"raw":"{\"expr\":\"1+5\"}"}
+  Result: {"result": 6, "expression": "1+5"}
+
+--- Iteration 3 ---
+Assistant: The sine of π/2 is 1. Adding that to 5 gives us 6.
+
+
+
+Test 4:
+
+User: You are a helpful assistant with access to a calculator tool.
+                  CRITICAL: You must ALWAYS use the calculator tool for ANY mathematical operations, including:
+                  - Basic arithmetic (addition, subtraction, multiplication, division)
+                  - Comparisons and numerical evaluations
+                  - Any calculation involving numbers
+
+                  Never attempt to calculate results yourself. Always call the calculator tool, even for simple operations like 2+2.
+
+                  After receiving the tool result, present it to the user naturally. What's the weather in San Francisco?
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: get_weather
+  Raw Args (string): {"location":"San Francisco"}
+  Result: Sunny, 72°F
+
+--- Iteration 2 ---
+Assistant: The weather in San Francisco is sunny with a temperature of 72°F.
+
+
+
+Test 5:
+
+User: You are a helpful assistant with access to a calculator tool.
+                  CRITICAL: You must ALWAYS use the calculator tool for ANY mathematical operations, including:
+                  - Basic arithmetic (addition, subtraction, multiplication, division)
+                  - Comparisons and numerical evaluations
+                  - Any calculation involving numbers
+
+                  Never attempt to calculate results yourself. Always call the calculator tool, even for simple operations like 2+2.
+
+                  After receiving the tool result, present it to the user naturally. Calculate the area of triangle with base 10 and height 6
+
+--- Iteration 1 ---
+LLM wants to call 1 tool(s)
+  Tool: calculator
+  Raw Args (string): {"raw":"{\"operation\":\"area_triangle\",\"base\":10,\"height\":6}"}
+  Result: {"result": 30.0}
+
+--- Iteration 2 ---
+Assistant: The area of the triangle with a base of 10 and a height of 6 is 30 square units.

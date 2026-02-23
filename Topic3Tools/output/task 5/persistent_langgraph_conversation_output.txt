@@ -1,0 +1,34 @@
+<>:373: SyntaxWarning: invalid escape sequence '\('
+<>:373: SyntaxWarning: invalid escape sequence '\('
+/tmp/ipython-input-4057578653.py:373: SyntaxWarning: invalid escape sequence '\('
+  - Removes LaTeX inline math delimiters \( \) and $ $
+==================================================
+Starting conversation (LangGraph persistent + auto-execute pending tools on resume)...
+================================================== 
+
+Graph created successfully!
+
+Saving graph visualization...
+Graph image saved to lg_graph.png
+Starting new workflow...
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> What is (2*3)+ 5?
+Assistant: The result of (2*3) + 5 is 11.
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> What is sin(pi/2)?
+Assistant: The result of sin(pi/2) is 1.0.
+
+==================================================
+Enter your text (or 'quit' to exit):
+==================================================
+
+> quit
+Goodbye!
