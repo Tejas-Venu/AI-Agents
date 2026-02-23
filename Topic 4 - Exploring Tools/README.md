@@ -4,6 +4,27 @@ This module explores how AI agents use tools, compares **ToolNode vs ReAct agent
 
 ---
 
+## Table of Contents
+
+- [ToolNode vs ReAct Agent](#toolnode-vs-react-agent)
+  - [Python Features for Parallel Dispatch](#what-features-of-python-does-toolnode-use-to-dispatch-tools-in-parallel--what-kinds-of-tools-would-most-benefit-from-parallel-dispatch)
+  - [Handling Special Inputs ("verbose", "exit")](#how-do-the-two-programs-handle-special-inputs-such-as-verbose-and-exit)
+  - [Graph Diagram Comparison](#compare-the-graph-diagrams-of-the-two-programs--how-do-they-differ-if-at-all)
+  - [When ReAct Is Too Restrictive](#what-is-an-example-of-a-case-where-the-structure-imposed-by-the-langchain-react-agent-is-too-restrictive-and-youd-want-to-pursue-the-toolnode-approach)
+
+- [YouTube Transcript Analyzer](#youtube-transcript-analyzer)
+  - [Pipeline Breakdown](#pipeline-breakdown)
+    - [`extract_video_id(url)`](#extract_video_idurl)
+    - [`fetch_transcript(video_id)`](#fetch_transcriptvideo_id)
+    - [`summarize_transcript(transcript)`](#summarize_transcripttranscript)
+    - [`extract_key_concepts(transcript)`](#extract_key_conceptstranscript)
+    - [`generate_quiz(transcript)`](#generate_quiztranscript)
+    - [`analyze_video(url)`](#analyze_videourl)
+
+- [Key Takeaways](#key-takeaways)
+
+---
+
 ## ToolNode vs ReAct Agent
 
 ### What features of Python does ToolNode use to dispatch tools in parallel?  What kinds of tools would most benefit from parallel dispatch?
