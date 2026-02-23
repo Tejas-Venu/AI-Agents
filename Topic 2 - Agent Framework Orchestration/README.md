@@ -308,7 +308,7 @@ Conversation resumes with full history.
 
 ---
 
-# 🏗 Architectural Evolution
+# Architectural Evolution
 
 | Stage | Capability |
 |-------|------------|
@@ -322,7 +322,7 @@ Conversation resumes with full history.
 
 ---
 
-# 🎯 Conclusion
+# Conclusion
 
 This project evolves a simple LangGraph LLM wrapper into a:
 
