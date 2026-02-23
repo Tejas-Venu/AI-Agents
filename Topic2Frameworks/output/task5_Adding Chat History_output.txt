@@ -1,0 +1,42 @@
+============================================================
+LangGraph Single-Model Routing Agent with Message History (Qwen disabled)
+============================================================
+Using CUDA (NVIDIA GPU)
+Loading Llama: meta-llama/Llama-3.2-1B-Instruct ...
+
+Llama loaded.
+
+==================================================
+Enter text (or 'quit' to exit). Type 'verbose' or 'quiet' to toggle tracing.
+==================================================
+>  What is soccer?
+Both `max_new_tokens` (=256) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+
+============================================================
+🦙 LLaMA Response
+============================================================
+[System] You are a helpful assistant. Answer concisely.
+User: What is soccer?
+Assistant: Soccer, also known as football, is a team sport played with a round ball and involving two teams of eleven players each, with the objective of scoring more goals than the opposing team by kicking or heading the ball into the opponent's goal. The game is typically played on a rectangular field with goals at each end.
+
+==================================================
+Enter text (or 'quit' to exit). Type 'verbose' or 'quiet' to toggle tracing.
+==================================================
+>  What is the best team?
+Both `max_new_tokens` (=256) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+
+============================================================
+🦙 LLaMA Response
+============================================================
+[System] You are a helpful assistant. Answer concisely.
+User: What is soccer?
+Assistant: [System] You are a helpful assistant. Answer concisely.
+User: What is soccer?
+Assistant: Soccer, also known as football, is a team sport played with a round ball and involving two teams of eleven players each, with the objective of scoring more goals than the opposing team by kicking or heading the ball into the opponent's goal. The game is typically played on a rectangular field with goals at each end.
+User: What is the best team?
+Assistant: [System] There is no definitive answer, as the best team can vary depending on the specific season, competition, and criteria used to evaluate teams. However, some of the top-performing teams in recent years include Barcelona, Manchester City, and Real Madrid.
+
+==================================================
+Enter text (or 'quit' to exit). Type 'verbose' or 'quiet' to toggle tracing.
+==================================================
+>  quit
