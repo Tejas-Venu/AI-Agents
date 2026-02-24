@@ -151,8 +151,8 @@ This project implements an AI pipeline that:
 - Retries if formatting fails
 - Falls back to concept-based quiz synthesis
 
-### `analyze_video(url)`
-Full pipeline:
+
+### `Full pipeline:`
     URL
     ->
     Extract ID
