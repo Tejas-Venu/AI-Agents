@@ -154,7 +154,7 @@ This project implements an AI pipeline that:
 ### `analyze_video(url)`
 Full pipeline:
     URL
-    ↓
+    ->
     Extract ID
     ->
     Fetch Transcript
