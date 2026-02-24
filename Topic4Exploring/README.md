@@ -156,13 +156,13 @@ Full pipeline:
     URL
     ↓
     Extract ID
-    ↓
+    ->
     Fetch Transcript
-    ↓
+    ->
     Summarize
-    ↓
+    ->
     Extract Concepts
-    ↓
+    ->
     Generate Quiz
 
 
