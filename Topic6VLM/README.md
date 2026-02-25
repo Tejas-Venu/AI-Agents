@@ -15,7 +15,7 @@ Both use LLaVA via Ollama.
 - [Exercise 1 – Vision-Language Chat Agent](#exercise-1--vision-language-chat-agent)
   - [What It Does](#what-it-does)
   - [How To Run](#how-to-run)
-- [Exercise 2 – Video Surveillance Agent](#exercise-2--video-surveillance-agent)
+- [Exercise 2 – Video Surveillance](#exercise-2--video-surveillance)
   - [What It Does](#what-it-does-1)
   - [How To Run](#how-to-run-1)
 - [Dependencies](#dependencies)
