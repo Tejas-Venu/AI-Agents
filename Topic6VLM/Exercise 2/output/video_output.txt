@@ -1,0 +1,15 @@
+Extracting frames...
+Extracted 61 frames every ~2.00s (fps=30.00, total_frames=3648)
+Using local HOG detector to pre-screen frames (only positives will be asked to LLaVA).
+Local detector flagged 1/61 frames. Querying LLaVA for those...
+[000] frame='extracted_frames\frame_0059.jpg' -> LLaVA: 'Yes (90%)'
+
+DEBUG: frame times (s):
+[0.0, 2.0001096491228068, 4.0002192982456135, 6.00032894736842, 8.000438596491227, 10.000548245614034, 12.00065789473684, 14.000767543859647, 16.000877192982454, 18.00098684210526, 20.00109649122807, 22.001206140350874, 24.00131578947368, 26.00142543859649, 28.001535087719294, 30.001644736842103, 32.00175438596491, 34.00186403508771, 36.00197368421052, 38.00208333333333, 40.00219298245614, 42.00230263157894, 44.00241228070175, 46.00252192982455, 48.00263157894736, 50.00274122807017, 52.00285087719298, 54.00296052631578, 56.00307017543859, 58.00317982456139, 60.003289473684205, 62.00339912280701, 64.00350877192982, 66.00361842105262, 68.00372807017543, 70.00383771929823, 72.00394736842104, 74.00405701754384, 76.00416666666666, 78.00427631578947, 80.00438596491227, 82.00449561403508, 84.00460526315788, 86.00471491228069, 88.0048245614035, 90.0049342105263, 92.0050438596491, 94.00515350877191, 96.00526315789472, 98.00537280701754, 100.00548245614034, 102.00559210526315, 104.00570175438595, 106.00581140350876, 108.00592105263156, 110.00603070175437, 112.00614035087717, 114.00624999999998, 116.00635964912279, 118.0064692982456, 120.00657894736841]
+DEBUG: raw detections (per sampled frame):
+[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False]
+DEBUG: processed detections (after min-consecutive=1):
+[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False]
+Detected person entry/exit intervals (seconds):
+ENTER: 117.01s    EXIT: 119.01s
+Results written to person_times.txt
