@@ -11,15 +11,15 @@ Both use LLaVA via Ollama.
 
 # Table of Contents
 
-- [Project Structure](#-project-structure)
-- [Exercise 1 – Vision-Language Chat Agent](#-exercise-1--vision-language-chat-agent)
+- [Project Structure](#project-structure)
+- [Exercise 1 – Vision-Language Chat Agent](#exercise-1--vision-language-chat-agent)
   - [What It Does](#what-it-does)
   - [How To Run](#how-to-run)
-- [Exercise 2 – Video Surveillance Agent](#-exercise-2--video-surveillance-agent)
+- [Exercise 2 – Video Surveillance Agent](#exercise-2--video-surveillance-agent)
   - [What It Does](#what-it-does-1)
   - [How To Run](#how-to-run-1)
-- [Dependencies](#-dependencies)
-- [Model Setup](#-model-setup)
+- [Dependencies](#dependencies)
+- [Model Setup](#model-setup)
 
 ---
 
