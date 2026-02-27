@@ -12,7 +12,7 @@ Each exercise section below contains:
 # Table of Contents
 
 1. [Project Structure](#project-structure)  
-2. [Exercise 1 — Open Model RAG vs. No RAG](#exercise-1--open-model-rag-vs-no-rag)  
+2. [Exercise 1 — Open Model RAG vs. No RAG](#exercise-1--open--model-rag-vs-no-rag)  
 3. [Exercise 2 — Open Model + RAG vs. Large Model](#exercise-2--open-model--rag-vs-large-model)  
 4. [Exercise 3 — Open Model + RAG vs. State-of-the-Art Chat Model](#exercise-3--open-model--rag-vs-state-of-the-art-chat-model)  
 5. [Exercise 4 — Effect of Top-K Retrieval Count](#exercise-4--effect-of-top-k-retrieval-count)  
