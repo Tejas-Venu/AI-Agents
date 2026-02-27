@@ -29,7 +29,7 @@ Systematically evaluates RAG configurations including chunk size, overlap, top-k
 
 ---
 
-## Topic 6 — Vision-Language Agents
+## Topic 6 — Vision-Language Models
 
 Develops a multi-turn image chat agent using LLaVA and LangGraph, and a video surveillance system that detects person entry/exit events from video frames using vision-language reasoning.All code, results, and analysis for the Vision-Language Model assignments (image chat agent and video surveillance system) are located in the **Topic6VLM** folder, with full documentation included in its README.
 
