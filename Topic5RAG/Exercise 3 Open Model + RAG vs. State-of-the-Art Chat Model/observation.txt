@@ -1,0 +1,11 @@
+Where does the frontier model's general knowledge succeed?
+The frontier model’s general knowledge succeeds on broadly documented, historical, or mechanical questions such as Model T maintenance (carburetor adjustment, spark plug gap, transmission band tightening, oil type). These are well-established topics that are likely covered in training data and do not require access to a specific proprietary document. It also appropriately declined to fabricate details about future 2026 congressional events.
+
+When did the frontier model appear to be using live web search to help answer your questions?
+There is no clear indication that live web search was used. The responses to the 2026 congressional questions explicitly referenced a knowledge cutoff and declined to provide post-2023 information, which suggests the model relied solely on pretraining rather than real-time retrieval.
+
+Where does your RAG system provide more accurate, specific answers?
+The RAG system provides more accurate and specific answers when questions require precise details from a particular source, such as the Model T manual or exact Congressional Record entries. In those cases, retrieval grounds the answer in the actual text, reducing hallucination and increasing factual precision.
+
+What does this tell you about when RAG adds value vs. when a powerful model suffices?
+This comparison shows that powerful frontier models are often sufficient for general knowledge and widely documented topics. However, RAG adds significant value when answering domain-specific, document-specific, or time-sensitive questions that are not reliably stored in pretraining data. In short, general knowledge favors large models, while specialized or corpus-specific tasks benefit strongly from RAG.

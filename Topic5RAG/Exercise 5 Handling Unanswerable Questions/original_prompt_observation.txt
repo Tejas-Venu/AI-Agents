@@ -1,0 +1,8 @@
+Does the model admit it doesn't know?
+Yes, in several RAG cases the model correctly admits that the corpus does not contain the requested information (e.g., horsepower and President questions), but without RAG it often answers confidently from general knowledge even when the answer may be outdated.
+
+Does it hallucinate plausible-sounding but wrong answers?
+Yes, the model hallucinates detailed but incorrect information, such as claiming the 1925 Model T had a six-cylinder engine and recommending synthetic oil in a historical manual where that would be unlikely.
+
+Does retrieved context help or hurt? (Does irrelevant context encourage hallucination?)
+Retrieved context helps when the question is corpus-specific, but irrelevant context can hurt by encouraging the model to fabricate justifications or force connections (e.g., inferring oil recommendations or explaining France using unrelated manual text).

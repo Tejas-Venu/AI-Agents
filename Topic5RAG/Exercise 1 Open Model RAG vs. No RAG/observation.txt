@@ -1,0 +1,9 @@
+Does the model hallucinate specific values without RAG?
+Yes, the model hallucinates specific values and detailed factual claims without RAG. It invents dates, dollar amounts, legislative details, and events while presenting them with high confidence.
+
+Does RAG ground the answers in the actual manual?
+Yes, RAG helps ground the responses in retrieved context. The answers become more aligned with documented material and contain fewer fabricated specifics.
+
+Are there questions where the model's general knowledge is actually correct?
+In these examples, there are no clear cases where the model’s general knowledge alone produced a reliably correct answer. While some dates may coincidentally match those mentioned in the questions, the surrounding details — such as legislative actions, dollar amounts, and event descriptions — are fabricated or unsupported. Therefore, even if a date appears correct, the overall response cannot be considered accurate.
+

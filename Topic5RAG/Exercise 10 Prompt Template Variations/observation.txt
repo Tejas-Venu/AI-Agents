@@ -1,0 +1,8 @@
+Which prompt produces the most accurate answers?
+Citation tends to produce the most verifiable answers because it forces quoting and source tags, so when the retrieved text is clean it yields the closest match to the manual. However, OCR/noise in your corpus (e.g. the garbled “¥;” spark-gap) can make even citation answers look wrong, so accuracy depends on retrieval/cleanliness too.
+
+Which produces the most useful answers?
+Structured and permissive are the most useful: structured gives organized facts + a concise synthesis that’s easy to act on, while permissive produces fuller, practitioner-oriented answers. Between them, structured is safer for traceability and permissive is slightly more practical when the corpus is incomplete.
+
+Is there a trade-off between strict grounding and helpfulness?
+Yes, enforcing strict grounding or citation increases traceability and reduces hallucination risk but can make responses shorter, more cautious, or fail when source text is noisy. Conversely, permissive prompts boost helpful, actionable text (higher apparent usefulness) at the cost of potentially adding unsupported or paraphrased content.

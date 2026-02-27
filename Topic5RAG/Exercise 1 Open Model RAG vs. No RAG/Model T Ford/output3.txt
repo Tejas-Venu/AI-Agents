@@ -1,0 +1,25 @@
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+To fix a slipping transmission band, you can try the following steps:
+
+1. Check for worn or damaged components: Inspect the transmission bands and other related parts to ensure they are in good condition.
+
+2. Replace faulty components: If any of the transmission bands or other parts are worn out or damaged, replace them with new ones.
+
+3. Adjust the tension: Ensure that the transmission bands are properly tightened. Over-tightening can cause them to slip, while under-tightening may not provide enough friction.
+
+4. Clean the transmission: Use a cleaning solution to remove dirt, grime, and debris from the transmission system.
+
+5. Lubricate the transmission: Apply lubricant to the transmission bands and other moving parts to reduce friction and prevent wear.
+
+6. Reassemble the transmission: After making necessary adjustments, reassemble the transmission and test it to see if the problem has been resolved.
+
+7. Seek professional help: If the issue persists after trying these steps, consider consulting a mechanic or transmission specialist for further assistance.
+
+Remember to always follow proper safety procedures when working on your vehicle's transmission system. This includes wearing protective gear and avoiding overloading the vehicle during repairs. By taking these precautions, you can effectively address slipping transmission bands and maintain optimal performance of your vehicle's transmission system.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+To fix a slipping transmission band, you need to adjust the speed band. Loosen the lock nut at the tight side of the transmission cover and turn the adjusting screw until the band is snug but not too tight. Then, remove the transmission cover to access the pedal shafts and ensure they fit correctly in the notches in the band ears. Finally, install the clutch release ring in the rear groove of the clutch shift, with the cover still in place, and remove any retaining clips that were used to hold the bands in place during installation. Ensure that the screws securing the fingers are properly adjusted to compress the spring evenly around the gear teeth. This adjustment helps prevent the clutch from slipping. Remember to replace the cotter-pin after removing the differential gears.

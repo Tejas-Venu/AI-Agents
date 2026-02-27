@@ -1,0 +1,90 @@
+Question: "What is the capital of France?"
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+Paris
+Paris is the capital and most populous city of France. It is located in northern-central France on the Seine River, which flows through the city from west to east. The city has a population of about 2.2 million people within its administrative limits (1.4 million in the urban area), making it one of the largest metropolitan areas in Europe.
+The name "Paris" comes from the Celtic word "Peris," meaning "settlement." In Roman times, the city was called Lutetia, after the river that flowed through it. The city's name changed again during the Middle Ages when it became known as Paris. The French Revolution led to the renaming of the city back to Paris in 1794.
+In addition to being the capital of France, Paris is also the seat of government for the European Union, United Nations, NATO, and other international organizations. The city is home to many important institutions such as the Louvre Museum, Notre-Dame Cathedral, and Eiffel Tower. It is also famous for its art, fashion, cuisine, and nightlife. Paris is considered one of the world's leading tourist destinations and is often referred to as the City of Light due to its historical significance and cultural influence.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+The capital of France is Paris. This can be inferred from the fact that the text mentions "France" multiple times and provides details about the Model T car, but does not explicitly state the capital of France. However, it's common knowledge that Paris is the capital city of France. 
+
+Relevant Context:
+[Source: ModelT-01-10.txt, Relevance: 0.126]
+the zero marie (eee Cut No, 3). ‘The’
+r must also mesh a0 that the tooth marked zero (0) on the amall time gtar  ayvill
+| oad
+: . 7 cm PI
+»
+ie
+Chich Spemg.
+” Chich Retenve Fort
+G
+Chath Retesre Rang
+Choch Sti
+Chuch Fieaget
+Os Lew!
+Ne Shafi Contes Berson,
+. Crank Shaft
+Connecting Rad
+Cam Shaft Rear Bearing
+Crank Salt Rear Bearing
+Sectional View of the Model T Motor.
+(Cut No. 2)
+.
+;
+Terminal
+ie
+Question: What is the capital of France?
+Answer: The capital of France is Paris. This can be inferred from the fact that the text mentions "France" multiple times and provides details about the Model T car, but does not explicitly state the capital of France. However, it's common knowledge that Paris is the capital city of France. 
+
+Relevant Context:
+[Source: ModelT-01-10.txt, Relevance: 0.126]
+
+Question: "What's the horsepower of a 1925 Model T?"
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+The 1925 Ford Model T was powered by an inline six-cylinder engine with a displacement of 208 cubic inches (3.4 liters). This engine produced approximately 36 hp at 3,000 rpm.
+The 1925 Ford Model T was indeed a significant milestone in automotive history as it marked the first mass-produced car that could be purchased for less than $1000. It featured a simple design and low cost, making it accessible to many people who had previously been unable to afford more expensive vehicles. Despite its simplicity, the Model T was still capable of handling everyday tasks and even some light off-road driving.
+
+In terms of power output, the 1925 Ford Model T boasted a relatively modest horsepower rating of about 36 hp. This is quite impressive considering the era in which it was manufactured; cars from this period typically didn't have much in the way of advanced technology or sophisticated engineering. However, for its time, the Model T was considered quite powerful due to its compact size and efficient design.
+
+To put this into perspective, modern sports cars often feature engines producing hundreds of horsepower, while trucks can exceed 700 horsepower. In comparison, the 1925 Ford Model T's 36 hp represents a substantial increase over earlier models like the Model A, but it remains well within the range of what most early automobiles were capable of generating. The Model T's performance was sufficient for its intended purpose—getting people around town and performing basic transportation duties—but it wasn't designed for high-speed racing or extreme off-road conditions. Its primary function was to serve as a reliable means of personal transport for families and individuals across America during the Roaring Twenties.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+The context does not provide any information about the horsepower of a 1925 Model T. It only discusses the components of the Model T motor, such as bearings and gears, but does not mention anything related to its power output. Therefore, I cannot determine the horsepower of a 1925 Model T based solely on the given information.
+
+
+Question: "Why does the manual recommend synthetic oil?"
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+The manual recommends synthetic oil because it provides better protection and performance than traditional mineral-based oils. Synthetic oils are made from a blend of base stocks, which can be refined to provide superior viscosity properties at low temperatures and excellent oxidation stability at high temperatures. This means that they offer more consistent lubrication over time, reducing wear on engine components and improving fuel efficiency. Additionally, synthetic oils have fewer impurities and contaminants, making them less likely to cause problems such as sludge buildup or corrosion in the engine. Therefore, using synthetic oil is recommended by manufacturers to ensure optimal performance and longevity of your vehicle's engine.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+The manual recommends synthetic oil because it states that "Oil should be used of good quality" and specifically mentions that "Synthetic oils are more resistant to heat and wear than mineral oils." Therefore, the recommendation for synthetic oil is likely due to its superior performance characteristics compared to mineral oils. However, without explicit mention of synthetic oil in the given sources, we cannot definitively state why it was recommended. The text only provides general advice about choosing high-quality oil. To provide an accurate reason, additional information would be needed. 
+
+The manual's recommendation for synthetic oil appears to be based on its resistance to heat and wear, but this conclusion relies on inference rather than direct evidence from the provided sources. The specific reasons for recommending synthetic oil were not explicitly stated in the given context.
+
+Question: "Who is the President of USA?"
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+The current president of the United States is Joe Biden. He took office on January 20, 2021.
+
+Joe Biden was born in a small town called Scranton, Pennsylvania, and grew up there before attending Harvard University. After graduating from college, he worked as an attorney and later became involved in politics. In 2008, he ran for Vice President under the Democratic Party ticket with Senator Barack Obama. They won the election and were inaugurated as the first African American to hold both positions simultaneously.
+
+Biden has been serving as the President since January 20, 2021, after former President Donald Trump's term ended. During his presidency, he has focused on issues such as climate change, healthcare reform, and economic recovery from the COVID-19 pandemic. As of now, Joe Biden remains the incumbent President of the United States.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+Based solely on the given context, there is not enough information to determine who the President of the USA is. The text does not mention any political figures or presidents. To find out who the current president is, you would need to consult more recent sources or official government announcements.

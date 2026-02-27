@@ -1,0 +1,461 @@
+--------------------------------------------------------------------------------
+Query: How do I adjust the carburetor on a Model T?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.631 | span=[39265:39390]
+ity of gasoline in the mixture by turning the carburetor adjustment to the righ t as far as possible
+without reducing speed.
+
+[Rank 2] Source: ModelT-21-30.txt | Relevance: 0.631 | span=[1576:1701]
+ity of gasoline in the mixture by turning the carburetor adjustment to the righ t as far as possible
+without reducing speed.
+
+[Rank 3] Source: ModelT-21-30.txt | Relevance: 0.602 | span=[79:207]
+42 The carburetor is of the automatic float feed type, having but one adjustment: shows how the
+gasoline enters the carburetor,
+
+[Rank 4] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.589 | span=[38687:38780]
+he speed desired by the driver.  Why is Carburetor adjustment placed on dash? Answer No. 43
+
+[Rank 5] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.589 | span=[37743:37871]
+does it work? Answer No. 42 The carburetor is of the automatic float feed type, having but one
+adjustment: shows how the gasolin
+
+
+--------------------------------------------------------------------------------
+Query: What is the correct spark plug gap for a Model T Ford?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.604 | span=[94530:94623]
+| 8. Too close gap between spark plug  ‘At High Speeds. 1. ‘Commutator contact imperfect. 3.
+
+[Rank 2] Source: ModelT-51-60.txt | Relevance: 0.604 | span=[13327:13420]
+| 8. Too close gap between spark plug  ‘At High Speeds. 1. ‘Commutator contact imperfect. 3.
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.567 | span=[27391:27519]
+THE FORD ENGINE is  In assembling the plug care should be taken to see that the pack nut ia net
+tight- ened too much so as to cr
+
+[Rank 4] Source: ModelT-11-20.txt | Relevance: 0.567 | span=[8713:8841]
+THE FORD ENGINE is  In assembling the plug care should be taken to see that the pack nut ia net
+tight- ened too much so as to cr
+
+[Rank 5] Source: ModelT-51-60.txt | Relevance: 0.565 | span=[13420:13503]
+Too much gap in spark plug. 4, Imperfect gas mixture,  ENGINE STOPS SUDDENLY ~, |
+
+
+--------------------------------------------------------------------------------
+Query: How do I fix a slipping transmission band?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.498 | span=[58286:58363]
+right. To tighten the brake and reverse bands remove the transmission cover
+
+[Rank 2] Source: ModelT-31-40.txt | Relevance: 0.498 | span=[3545:3622]
+right. To tighten the brake and reverse bands remove the transmission cover
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.485 | span=[58084:58212]
+‘ée  Bands adjusted? Answer No. TH  The slow.speed band.may be tightened by loosening the lock nut
+at the tight side of the tr
+
+[Rank 4] Source: ModelT-31-40.txt | Relevance: 0.485 | span=[3343:3471]
+‘ée  Bands adjusted? Answer No. TH  The slow.speed band.may be tightened by loosening the lock nut
+at the tight side of the tr
+
+[Rank 5] Source: ModelT-31-40.txt | Relevance: 0.461 | span=[5470:5595]
+d the bands in place while the cover was being installed... ;  How is the Transmission , a
+assembled? Answer N6,,.76 Cut No.
+
+
+--------------------------------------------------------------------------------
+Query: What oil should I use in a Model T engine?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.449 | span=[7177:7305]
+However, we recommend that the magneto be used at all tim The to was designed to furnish ignition
+for the Model T engine‘andl be
+
+[Rank 2] Source: ModelT-01-10.txt | Relevance: 0.449 | span=[7177:7305]
+However, we recommend that the magneto be used at all tim The to was designed to furnish ignition
+for the Model T engine‘andl be
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.445 | span=[81060:81188]
+upper oil plug, The aiicrentil 4)  with th uired amount of lubricant hen the truck feaves : Bethe ae
+ele cece weer a egraek ae
+
+[Rank 4] Source: ModelT-41-50.txt | Relevance: 0.445 | span=[14123:14251]
+upper oil plug, The aiicrentil 4)  with th uired amount of lubricant hen the truck feaves : Bethe ae
+ele cece weer a egraek ae
+
+[Rank 5] Source: ModelT-51-60.txt | Relevance: 0.439 | span=[3588:3654]
+THE FORD STARTING AND LIGHTING What about Oiling? Answer No. 123
+
+
+--------------------------------------------------------------------------------
+Query: How do I tighten the brake and reverse bands?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.669 | span=[58286:58363]
+right. To tighten the brake and reverse bands remove the transmission cover
+
+[Rank 2] Source: ModelT-31-40.txt | Relevance: 0.669 | span=[3545:3622]
+right. To tighten the brake and reverse bands remove the transmission cover
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.541 | span=[59092:59220]
+Turn the reverse adjustment nut and the brake adjustment nut to the extreme end of the pedal shafts,
+then remove the slow speed’
+
+[Rank 4] Source: ModelT-31-40.txt | Relevance: 0.541 | span=[4351:4479]
+Turn the reverse adjustment nut and the brake adjustment nut to the extreme end of the pedal shafts,
+then remove the slow speed’
+
+[Rank 5] Source: ModelT-31-40.txt | Relevance: 0.540 | span=[4976:5104]
+o be turned downward. By reversing this operation the bands may be installed. After being placed in
+their upright position on th
+
+Batches: 100% 21/21 [00:01<00:00, 14.33it/s]Rebuilt: 654 chunks, chunk_size=512, chunk_overlap=128
+
+--------------------------------------------------------------------------------
+Query: How do I adjust the carburetor on a Model T?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.558 | span=[38303:38780]
+flow of gasoline is resumed. It is plaia to see that a constant level of gasoline is maintained in
+the carburetor by the auto-  matic action of float and needle. The quantity of gagoline entering
+into the mixture is governed by the needle valve (see Answer No. 45). The volume of gas mixture
+entering...
+
+[Rank 2] Source: ModelT-21-30.txt | Relevance: 0.558 | span=[614:1091]
+flow of gasoline is resumed. It is plaia to see that a constant level of gasoline is maintained in
+the carburetor by the auto-  matic action of float and needle. The quantity of gagoline entering
+into the mixture is governed by the needle valve (see Answer No. 45). The volume of gas mixture
+entering...
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.533 | span=[28300:28633]
+ts helding the font rad’us rods.in the gocket underneath the crank case; ‘ (7) remove the four bolts
+at the universal joint; -  +  {8) remove pana on either side of cylinder casting and turn off
+gasoline, disconnect feed pipe from carburetor; ‘  (9) disconnect exhaust manifold from exhaust pipe
+by u...
+
+[Rank 4] Source: ModelT-11-20.txt | Relevance: 0.533 | span=[9622:9955]
+ts helding the font rad’us rods.in the gocket underneath the crank case; ‘ (7) remove the four bolts
+at the universal joint; -  +  {8) remove pana on either side of cylinder casting and turn off
+gasoline, disconnect feed pipe from carburetor; ‘  (9) disconnect exhaust manifold from exhaust pipe
+by u...
+
+[Rank 5] Source: ModelT-21-30.txt | Relevance: 0.531 | span=[963:1471]
+sing the throttle, accord- ing to the speed desired by the driver.  Why is Carburetor adjustment
+placed on dash? Answer No. 43  For the convenience of the driver in adjusting the carburetor. After
+the new car has become thoroughly worked in, the driver should observe the angle ofthe car- buretor
+adj...
+
+
+--------------------------------------------------------------------------------
+Query: What is the correct spark plug gap for a Model T Ford?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.553 | span=[49472:49958]
+placed if they peréist in not working properly. There is nothing to be gained by experimenting with
+different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave
+the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of
+variou...
+
+[Rank 2] Source: ModelT-21-30.txt | Relevance: 0.553 | span=[11783:12269]
+placed if they peréist in not working properly. There is nothing to be gained by experimenting with
+different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave
+the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of
+variou...
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.507 | span=[27153:27638]
+re should be exercised not to scrape off the glazed surface of the porcelain, | otlierwise it will
+be apt to carbonize quickly. The porcelain and other parts should finally be washed in gasoline and
+wiped dry with a cloth. oe  ~ . _—_    THE FORD ENGINE is  In assembling the plug care should be
+take...
+
+[Rank 4] Source: ModelT-11-20.txt | Relevance: 0.507 | span=[8475:8960]
+re should be exercised not to scrape off the glazed surface of the porcelain, | otlierwise it will
+be apt to carbonize quickly. The porcelain and other parts should finally be washed in gasoline and
+wiped dry with a cloth. oe  ~ . _—_    THE FORD ENGINE is  In assembling the plug care should be
+take...
+
+[Rank 5] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.452 | span=[47620:47967]
+o. : cause a vigorous kick back.  {284  ety Ci   26 THE FORD MANUAL  Does Coil Adjustment. oa a
+affect starting? Answer No, 58  Yes. When the vibrators are not properly adjusted more current is
+required to make and break the contact between the points, and, as a result, at cranking speeds you
+would...
+
+
+--------------------------------------------------------------------------------
+Query: How do I fix a slipping transmission band?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.601 | span=[57994:58363]
+ise if they are dropped into the transmission case it is almost impossible to recover them  ‘ée
+Bands adjusted? Answer No. TH  The slow.speed band.may be tightened by loosening the lock nut at the
+tight side of the transmission cover, and turning the adjusting screw (see Cut No. 12)'té tf  right.
+T...
+
+[Rank 2] Source: ModelT-31-40.txt | Relevance: 0.601 | span=[3253:3622]
+ise if they are dropped into the transmission case it is almost impossible to recover them  ‘ée
+Bands adjusted? Answer No. TH  The slow.speed band.may be tightened by loosening the lock nut at the
+tight side of the transmission cover, and turning the adjusting screw (see Cut No. 12)'té tf  right.
+T...
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.504 | span=[59885:60274]
+he three bands, holding them in the center so that when put@ilg: the transmission cover in place no
+trouble will be experienced in getting the. pedal shafts to rest in the notches in the band ears.
+The clutch release ring must Be placed in the rear groove of the clutch shift, With the cover in-
+place...
+
+[Rank 4] Source: ModelT-31-40.txt | Relevance: 0.504 | span=[5144:5533]
+he three bands, holding them in the center so that when put@ilg: the transmission cover in place no
+trouble will be experienced in getting the. pedal shafts to rest in the notches in the band ears.
+The clutch release ring must Be placed in the rear groove of the clutch shift, With the cover in-
+place...
+
+[Rank 5] Source: ModelT-31-40.txt | Relevance: 0.490 | span=[7836:8332]
+r by means of the adjusting sttews. within aspace of two or two and one-sixteenth inches to insure
+against the clafch slipping. Care should be exercised to see that the screws in the fingers areigd-
+justed so the apring is compressed evenly all around.  ' { H  _t . ee on See er iad  “~«~ te we en
+Ve...
+
+
+--------------------------------------------------------------------------------
+Query: What oil should I use in a Model T engine?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.377 | span=[18383:18754]
+cting Rad Cam Shaft Rear Bearing Crank Salt Rear Bearing  Sectional View of the Model T Motor.  (Cut
+No. 2)  . ;  Terminal  ie  | Sree Cm Rit : Staring Crank Spring Searing Crank Steeve  Camm Stadt
+Fron Bearing Sina Tre Gear  Crank Shaft Front Bearing Cain Shaft  Crank Case OM Take Prot Pad    fon
+7...
+
+[Rank 2] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.376 | span=[3190:3702]
+casing ( reservoir which holds this oil) you will find two pet cocks. Pour off in sléwly - until it
+runs out of the upper cock. Leave the cock open until it stopd running— then close it. ‘After the
+engine has become thoroughly limbered up, the best results will be obtained by carrying the oil at a
+l...
+
+[Rank 3] Source: ModelT-01-10.txt | Relevance: 0.376 | span=[3190:3702]
+casing ( reservoir which holds this oil) you will find two pet cocks. Pour off in sléwly - until it
+runs out of the upper cock. Leave the cock open until it stopd running— then close it. ‘After the
+engine has become thoroughly limbered up, the best results will be obtained by carrying the oil at a
+l...
+
+[Rank 4] Source: ModelT-01-10.txt | Relevance: 0.375 | span=[18383:18895]
+cting Rad Cam Shaft Rear Bearing Crank Salt Rear Bearing  Sectional View of the Model T Motor.  (Cut
+No. 2)  . ;  Terminal  ie  | Sree Cm Rit : Staring Crank Spring Searing Crank Steeve  Camm Stadt
+Fron Bearing Sina Tre Gear  Crank Shaft Front Bearing Cain Shaft  Crank Case OM Take Prot Pad
+
+[Rank 5] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.373 | span=[80813:81226]
+t Lubricating ‘ " a oe the Rear Axle? Answer No.. his. Extreme care must be used in lubricating the
+differential, An 4-1 heayy  of semifinid cil, such as Mobiloil C or Whittemore’s Wort Gear Brotectit
+should be used and carried at a level with the upper oil plug, The aiicrentil 4)  with th uired
+amo...
+
+
+--------------------------------------------------------------------------------
+Query: How do I tighten the brake and reverse bands?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.778 | span=[58235:58548]
+urning the adjusting screw (see Cut No. 12)'té tf  right. To tighten the brake and reverse bands
+remove the transmission cover  doof and turn the adjusting nuts on the shafts to the right. See that
+the bands do : not dragon the drums when disengaged, as they exert 2 brake effect, and tend to
+overhea...
+
+[Rank 2] Source: ModelT-31-40.txt | Relevance: 0.778 | span=[3494:3807]
+urning the adjusting screw (see Cut No. 12)'té tf  right. To tighten the brake and reverse bands
+remove the transmission cover  doof and turn the adjusting nuts on the shafts to the right. See that
+the bands do : not dragon the drums when disengaged, as they exert 2 brake effect, and tend to
+overhea...
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.620 | span=[57994:58363]
+ise if they are dropped into the transmission case it is almost impossible to recover them  ‘ée
+Bands adjusted? Answer No. TH  The slow.speed band.may be tightened by loosening the lock nut at the
+tight side of the transmission cover, and turning the adjusting screw (see Cut No. 12)'té tf  right.
+T...
+
+[Rank 4] Source: ModelT-31-40.txt | Relevance: 0.620 | span=[3253:3622]
+ise if they are dropped into the transmission case it is almost impossible to recover them  ‘ée
+Bands adjusted? Answer No. TH  The slow.speed band.may be tightened by loosening the lock nut at the
+tight side of the transmission cover, and turning the adjusting screw (see Cut No. 12)'té tf  right.
+T...
+
+[Rank 5] Source: ModelT-31-40.txt | Relevance: 0.471 | span=[7503:7964]
+he spring and press into place, inserting the pin in the driving plate hub through the holes in the
+side of the spring support. Then turn fhe clutch spring sup until the pin fits into the lugs on the
+bottom of the euppg The easiest m: of compressing the spring sufficiently to insert the pir to
+igose...
+
+Batches: 100% 4/4 [00:00<00:00,  5.14it/s]Rebuilt: 115 chunks, chunk_size=2048, chunk_overlap=128
+
+--------------------------------------------------------------------------------
+Query: How do I adjust the carburetor on a Model T?
+
+[Rank 1] Source: ModelT-21-30.txt | Relevance: 0.512 | span=[0:1949]
+- . aa - ' a  The Gasoline System The Carburetor—how  does it work? Answer No. 42 The carburetor is
+of the automatic float feed type, having but one adjustment: shows how the gasoline enters the
+carburetor, is vaporized by a current Of aif and passes through the inlet pipe to the engine in the
+form...
+
+[Rank 2] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.499 | span=[37615:39638]
+This cut illustrates the principle of Ford Carburetion.  »  (Cut No. 7)   - . aa - ' a  The Gasoline
+System The Carburetor—how  does it work? Answer No. 42 The carburetor is of the automatic float feed
+type, having but one adjustment: shows how the gasoline enters the carburetor, is vaporized by a
+c...
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.470 | span=[41042:42929]
+is neceseary to turn, the adjusting needle down more thatia quarter turn ‘below _ 7 ‘Pend  ,   eee
+————  92 _ THE FORD MANUAL  its normal position, the loti nut on. topvof the carburétac at the point
+through which needle pesses should first be loosened, as otherwise it is impossible to tell when
+the...
+
+[Rank 4] Source: ModelT-21-30.txt | Relevance: 0.470 | span=[3353:5240]
+is neceseary to turn, the adjusting needle down more thatia quarter turn ‘below _ 7 ‘Pend  ,   eee
+————  92 _ THE FORD MANUAL  its normal position, the loti nut on. topvof the carburétac at the point
+through which needle pesses should first be loosened, as otherwise it is impossible to tell when
+the...
+
+[Rank 5] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.395 | span=[18481:20072]
+ut No. 2)  . ;  Terminal  ie  | Sree Cm Rit : Staring Crank Spring Searing Crank Steeve  Camm Stadt
+Fron Bearing Sina Tre Gear  Crank Shaft Front Bearing Cain Shaft  Crank Case OM Take Prot Pad    fon
+7s, aoe =,  ~ . . - ‘eg - ‘ant i ve - —_a ae . on a ee = 8 —.-_ 2 a oe  " Cylinder Assembly, the
+co...
+
+
+--------------------------------------------------------------------------------
+Query: What is the correct spark plug gap for a Model T Ford?
+
+[Rank 1] Source: ModelT-11-20.txt | Relevance: 0.481 | span=[0:2010]
+fon 7s, aoe =,  ~ . . - ‘eg - ‘ant i ve - —_a ae . on a ee = 8 —.-_ 2 a oe  " Cylinder Assembly, the
+correct position of the valves with time gears properly set according to punch marks on the gears,
+also the relative p ion of the pistons in their sores as indice ted above. The firing order of the
+c...
+
+[Rank 2] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.481 | span=[18481:20072]
+ut No. 2)  . ;  Terminal  ie  | Sree Cm Rit : Staring Crank Spring Searing Crank Steeve  Camm Stadt
+Fron Bearing Sina Tre Gear  Crank Shaft Front Bearing Cain Shaft  Crank Case OM Take Prot Pad    fon
+7s, aoe =,  ~ . . - ‘eg - ‘ant i ve - —_a ae . on a ee = 8 —.-_ 2 a oe  " Cylinder Assembly, the
+co...
+
+[Rank 3] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.370 | span=[48101:50021]
+when running they are apt to produce an occasional “miss” in the engine.  What is the purpose of the
+Commutator? Answer No. 59  The commutator (or timer) determines the instant at which the spark plugs
+must fire. It effects the “make and break” in the primary circuit. The grounded wire in the
+magnet...
+
+[Rank 4] Source: ModelT-21-30.txt | Relevance: 0.370 | span=[10412:12332]
+when running they are apt to produce an occasional “miss” in the engine.  What is the purpose of the
+Commutator? Answer No. 59  The commutator (or timer) determines the instant at which the spark plugs
+must fire. It effects the “make and break” in the primary circuit. The grounded wire in the
+magnet...
+
+[Rank 5] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.359 | span=[94179:96227]
+ulb.  oo Coil switch off.  ENGINE LACKS | POWER—RUNS -IRREGULARL  ; At Low Speeds.  1. Poor
+compression—account leaky ‘valves.  2. Gas mixture too rich or too lean. 3. Spark plugs dirty. 4.
+Cbdil vibrator improperly adjusted. | S Air leak in intake manifold. 6. Weak exhaust valve spring.
+, 7. Too g...
+
+
+--------------------------------------------------------------------------------
+Query: How do I fix a slipping transmission band?
+
+[Rank 1] Source: ModelT-31-40.txt | Relevance: 0.490 | span=[3253:4888]
+ise if they are dropped into the transmission case it is almost impossible to recover them  ‘ée
+Bands adjusted? Answer No. TH  The slow.speed band.may be tightened by loosening the lock nut at the
+tight side of the transmission cover, and turning the adjusting screw (see Cut No. 12)'té tf  right.
+T...
+
+[Rank 2] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.428 | span=[62577:64574]
+r by means of the adjusting sttews. within aspace of two or two and one-sixteenth inches to insure
+against the clafch slipping. Care should be exercised to see that the screws in the fingers areigd-
+justed so the apring is compressed evenly all around.  ' { H  _t . ee on See er iad  “~«~ te we en
+Ve...
+
+[Rank 3] Source: ModelT-41-50.txt | Relevance: 0.348 | span=[5173:7102]
+- ' inde os ~~ ~ ee Fr THE FORD MANUAL , snenethegemaneemn : ithe .  Wheat about the Stgering Se ar
+a Apparatus? Answer No. 96  It is exceedingly gipple and will need little care—except, of course,
+proper lubri- . cation. The post’ gears which are arranged in the “sun and planet” form are By
+lneotio...
+
+[Rank 4] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.324 | span=[60772:62705]
+hey will come next to theslow speed geat:. ‘Dik .    Transmission parts in their relative assembling
+positions. (Cut No. 13)    THE FORD TRANSMISSION  downward. After making sufe that the triple gears
+are properly meshed 34! ar in place by passing a cord around the outside of the three gears.
+Take.t...
+
+[Rank 5] Source: ModelT-31-40.txt | Relevance: 0.323 | span=[6269:8273]
+y passing a cord around the outside of the three gears. Take.the wheel and it on the table with the
+face downward api the t ao  drum, then a amall disc, alternating with large and small dieca until
+the eee set of diecs dre.in position, ending up with a large disc on top. ; re hQ If aemall discis
+on...
+
+
+--------------------------------------------------------------------------------
+Query: What oil should I use in a Model T engine?
+
+[Rank 1] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.397 | span=[2833:4844]
+k may be drained by opening the pet cock in the sediment bulb at the bottom. ,  Slow about - . the
+Oiling System? Answer No. 3  Upon receipt of the car see that a supply of medium light, high-grade
+gas engine oll is poured into the crank case through the breather pipe at the front of the. engine
+(a...
+
+[Rank 2] Source: ModelT-01-10.txt | Relevance: 0.397 | span=[2833:4844]
+k may be drained by opening the pet cock in the sediment bulb at the bottom. ,  Slow about - . the
+Oiling System? Answer No. 3  Upon receipt of the car see that a supply of medium light, high-grade
+gas engine oll is poured into the crank case through the breather pipe at the front of the. engine
+(a...
+
+[Rank 3] Source: ModelT-51-60.txt | Relevance: 0.323 | span=[8512:10485]
+oil stone. Too tight 2 fit will cause the bearing to freeze to the | bracket, resulting in serious
+damage to the starter. ' :  -i{6w is the Generator ; eel - Answer No. 130 ‘ahit is found necemary to
+remove the-eenerator, Sat 'take ont the ches cap Genes! thal generator and feent end cover, Sos
+toon...
+
+[Rank 4] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.319 | span=[94179:96227]
+ulb.  oo Coil switch off.  ENGINE LACKS | POWER—RUNS -IRREGULARL  ; At Low Speeds.  1. Poor
+compression—account leaky ‘valves.  2. Gas mixture too rich or too lean. 3. Spark plugs dirty. 4.
+Cbdil vibrator improperly adjusted. | S Air leak in intake manifold. 6. Weak exhaust valve spring.
+, 7. Too g...
+
+[Rank 5] Source: ModelT-51-60.txt | Relevance: 0.318 | span=[12142:14190]
+the effe of. any of the sohution which may be on the dw of the’ A  of heavy oil or vaseline will
+protect the cofinectors from  battery firmly secured in position. If clanipe. aré-loose, the about
+in the compartment and résult in loos¢ connections, broken cells and o  tranble. If repairs are
+necessar...
+
+
+--------------------------------------------------------------------------------
+Query: How do I tighten the brake and reverse bands?
+
+[Rank 1] Source: ModelT-31-40.txt | Relevance: 0.566 | span=[3253:4888]
+ise if they are dropped into the transmission case it is almost impossible to recover them  ‘ée
+Bands adjusted? Answer No. TH  The slow.speed band.may be tightened by loosening the lock nut at the
+tight side of the transmission cover, and turning the adjusting screw (see Cut No. 12)'té tf  right.
+T...
+
+[Rank 2] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.414 | span=[57028:58999]
+ent a wl f fo cingeal between the n chateh dace and prevent Pooper abtion of  . Answer No. 45 ‘floor
+boards at tie driver's *   Magneto Coniact —— Transmission Core: Reverse Pedal Shatt  ‘Transmission
+Band Specs Reverse Adpstinigy Nu:  fo stow Speed Adjusting Nut“ Stow Spees Adnenns Screw  ¥ wing
+Pl...
+
+[Rank 3] Source: ModelT-41-50.txt | Relevance: 0.384 | span=[5173:7102]
+- ' inde os ~~ ~ ee Fr THE FORD MANUAL , snenethegemaneemn : ithe .  Wheat about the Stgering Se ar
+a Apparatus? Answer No. 96  It is exceedingly gipple and will need little care—except, of course,
+proper lubri- . cation. The post’ gears which are arranged in the “sun and planet” form are By
+lneotio...
+
+[Rank 4] Source: Ford-Model-T-Man-1919.txt | Relevance: 0.366 | span=[12028:13424]
+mplished, and without any eciatte’ effect on the emooth ruining of the machine. ve a How is the Car
+- stopped? ‘ Answer No. 12  Partially close the throtte; felease the high speed by pressing the
+clutch petal forward into neutral; apply the foot Brake slowly but firmly until the car |  to a dead
+sto...
+
+[Rank 5] Source: ModelT-01-10.txt | Relevance: 0.366 | span=[12028:13424]
+mplished, and without any eciatte’ effect on the emooth ruining of the machine. ve a How is the Car
+- stopped? ‘ Answer No. 12  Partially close the throtte; felease the high speed by pressing the
+clutch petal forward into neutral; apply the foot Brake slowly but firmly until the car |  to a dead
+sto...
+
+
+========================================================================
+COMPARISON TABLE (fixed overlap = 128)
+========================================================================
+| Chunk Size | # Chunks  | Index Size | Rebuild (s) |
+|---------------------------------------------------|
+|    128     |   1712    |    1712    |     1.1     |
+|    512     |    654    |    654     |     1.6     |
+|    2048    |    115    |    115     |     0.9     |
+========================================================================

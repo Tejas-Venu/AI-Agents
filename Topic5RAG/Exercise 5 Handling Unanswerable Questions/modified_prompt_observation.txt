@@ -1,0 +1,3 @@
+Does modified prompt help?
+
+With the modified prompt, the model correctly refuses to answer when the corpus does not contain the relevant information, instead stating, “I cannot answer this from the available documents.” This significantly reduces hallucination and prevents the model from fabricating answers based on general knowledge when operating in RAG mode.The contrast is clear: without RAG, the model answers from pretraining (sometimes incorrectly or with outdated details), but with the stricter prompt in RAG mode, it properly respects document boundaries and avoids inventing unsupported facts.

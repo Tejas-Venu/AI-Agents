@@ -1,0 +1,18 @@
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+The American Civil Liberties Union (ACLU) is a non-profit organization that advocates on behalf of civil liberties, human rights, women's rights, LGBT rights, immigrants' rights, the poor, prisoners' rights, and people with disabilities. They have been vocal in their opposition to funding abortion providers because they believe it infringes upon the right to privacy.
+The ACLU has also been vocal in its support of funding of pregnancy centers. In 2014, the group filed an amicus brief supporting the use of federal funds to provide services at pregnancy centers. This was done as part of a broader effort by the ACLU to protect access to reproductive health care.
+
+In summary, while the ACLU opposes funding of abortion providers due to concerns about privacy and autonomy, they are supportive of funding of pregnancy centers. Their stance on these issues reflects their overall advocacy for civil liberties and reproductive rights.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+Based on the given context, two individuals have spoken about funding of pregnancy centers:
+
+1. **Ms. Dexter** (Oregon) spoke in strong opposition to the proposal to fund crisis pregnancy centers. She emphasized their non-medical nature and called it "shameful" for her Republican colleagues to divert funds away from family-supportive programs.
+
+2. **Mr. Schneider** also addressed the issue, stating his concern over the bill's intention to fund crisis pregnancy centers rather than helping families in need. He highlighted the global presence of such centers and their role in providing support and loving assistance to women. 
+
+These statements indicate that Ms. Dexter and Mr. Schneider have taken positions opposing the funding of crisis pregnancy centers. However, no other specific individual or position is mentioned beyond these two speakers.

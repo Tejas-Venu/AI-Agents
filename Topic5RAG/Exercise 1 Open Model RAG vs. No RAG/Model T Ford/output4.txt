@@ -1,0 +1,18 @@
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+In the early days of automobiles, before gasoline was widely available and affordable, Model Ts were often started with kerosene. The fuel tank on these cars was small enough to hold only about 1 gallon (3.8 liters) of liquid at most, so it had to be used efficiently.
+The answer is kerosene.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+According to the context, for proper lubrication of the Model T engine, you should use Mobil Oil C or Whittemore's Wart Gear Protectant. This is mentioned specifically regarding the rear axle and mentions using an appropriate level of lubricant after the truck starts moving. However, it does not specify what oil to use for the entire engine. To ensure thorough lubrication, it suggests using an appropriate amount of lubricant once the truck is started. 
+
+The context also notes that extreme care must be taken while lubricating the differential. It recommends using a heavy semi-finished grade like Mobil Oil C or Whittemore's Wart Gear Protectant, which should be carried at a level with the upper oil plug. The instruction advises applying the required amount of lubricant when the truck starts moving. 
+
+Therefore, the most accurate answer from the given context would be:
+
+For the entire Model T engine, you should use Mobil Oil C or Whittemore's Wart Gear Protectant. Ensure to apply the correct amount of lubricant once the truck starts moving. Remember to handle the differential carefully during the lubrication process. 
+
+This answer is derived directly from the specific instructions given about the rear axle and the general advice for starting the truck, but it cannot be guaranteed to cover every aspect of the engine's lubrication without additional context.

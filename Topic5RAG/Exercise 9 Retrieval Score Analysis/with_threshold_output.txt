@@ -1,0 +1,57 @@
+
+Retrieval Score Analysis (Threshold = 0.5)
+======================================================================
+
+[1] Query: How do I adjust the carburetor on a Model T?
+  Retrieved: 10 | Above threshold: 1
+  Filtered similarity scores: 0.5120
+  stats → mean: 0.5120, median: 0.5120, std: 0.0000
+    #1 score=0.5120 src=ModelT-21-30.txt
+       - . aa - ' a The Gasoline System The Carburetor—how does it work? Answer No. 42 The carburetor is of the automatic float feed type, having but one adjustment: shows how the gasoline enters the carburetor, is vaporized by a current Of aif and passes through the inlet pipe to the engine in the form...
+
+[2] Query: What is the correct spark plug gap for a Model T Ford?
+  Retrieved: 10 | Above threshold: 0
+  No chunks passed the threshold.
+
+
+[3] Query: How do I fix a slipping transmission band?
+  Retrieved: 10 | Above threshold: 0
+  No chunks passed the threshold.
+
+
+[4] Query: What oil should I use in a Model T engine?
+  Retrieved: 10 | Above threshold: 0
+  No chunks passed the threshold.
+
+
+[5] Query: How do I tighten the brake and reverse bands?
+  Retrieved: 10 | Above threshold: 1
+  Filtered similarity scores: 0.5662
+  stats → mean: 0.5662, median: 0.5662, std: 0.0000
+    #1 score=0.5662 src=ModelT-31-40.txt
+       ise if they are dropped into the transmission case it is almost impossible to recover them ‘ée Bands adjusted? Answer No. TH The slow.speed band.may be tightened by loosening the lock nut at the tight side of the transmission cover, and turning the adjusting screw (see Cut No. 12)'té tf right. To...
+
+[6] Query: What causes engine misfires at high speed?
+  Retrieved: 10 | Above threshold: 0
+  No chunks passed the threshold.
+
+
+[7] Query: How often should the Model T be lubricated?
+  Retrieved: 10 | Above threshold: 0
+  No chunks passed the threshold.
+
+
+[8] Query: How is the generator maintained on a Model T?
+  Retrieved: 10 | Above threshold: 0
+  No chunks passed the threshold.
+
+
+[9] Query: What is the recommended adjustment for the clutch?
+  Retrieved: 10 | Above threshold: 0
+  No chunks passed the threshold.
+
+
+[10] Query: Where is the crankcase oil reservoir and how to check it?
+  Retrieved: 10 | Above threshold: 0
+  No chunks passed the threshold.
+

@@ -1,0 +1,8 @@
+Does higher overlap improve retrieval of complete information?
+Yes — the outputs show low overlaps (0–128) returned partial fragments while overlap=256 returned a chunk containing the spark-plug spec, so higher overlap did recover the complete info. In other cases (carburetor, transmission band, oil) higher overlap improved the quality and completeness of retrieved passages.
+
+What's the cost? (Index size, redundant information in context)
+Cost is large: index size (number of chunks) more than doubled from 449 (overlap 0) to 1017 (overlap 256), meaning more storage and longer retrieval times. It also increases redundancy in the retrieved context (more repeated text across top-K), which inflates prompt length and may waste model budget.
+
+Is there a point of diminishing returns?
+Yes, benefits taper: moderate overlap (64–128) gave noticeable improvements over 0, but moving from 128 → 256 produced smaller gains while dramatically increasing index size. Practically, 64–128 is often the sweet spot; beyond that you pay heavy costs for limited extra recovery.

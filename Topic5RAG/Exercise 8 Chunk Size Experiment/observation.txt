@@ -1,0 +1,11 @@
+How does chunk size affect retrieval precision (relevant vs. irrelevant content)?
+Smaller chunks (128) give many narrow hits with high topical precision but often miss surrounding context, while very large chunks (2048) return fewer results that *contain* the answer but also include lots of irrelevant nearby text. Medium chunks (512) strike a balance — reasonably focused excerpts with less noisy filler than the largest chunks.
+
+How does it affect answer completeness?
+Larger chunks are far more likely to contain a complete answer inside a single chunk (so overlap/assembly isn’t needed), whereas small chunks frequently split answers across multiple hits and require composing top-K pieces to get a full response. Medium chunks often achieve good completeness without excessive composition.
+
+Is there a sweet spot for your corpus?
+Yes, for this Model T corpus with sentence-aware chunking and overlap=128, ~512 characters appears to be the sweet spot: good precision, manageable index size, and high chance the top results contain usable answer material. Going to 2048 improved single-chunk completeness but at the cost of index size and more irrelevant context.
+
+Does optimal size depend on the type of question?
+Yes, short factual lookups (dates, numeric specs) can work well with smaller chunks, while procedural or descriptive questions (how-to steps, diagnostics) benefit from larger chunks that preserve full instructions and context. We have to choose chunk size based on whether we need concise facts (smaller) or coherent multi-sentence guidance (medium→large).

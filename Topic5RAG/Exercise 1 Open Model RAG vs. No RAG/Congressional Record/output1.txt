@@ -1,0 +1,9 @@
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+In a speech delivered by Mr. Flood on January 13, 2026, he stated that Mayor David Black had been "a strong advocate for the city's economic development and infrastructure projects." He also mentioned that Mayor Black was known for his commitment to public service and his efforts to improve the quality of life for residents. The mayor was praised for his leadership skills and his ability to work collaboratively with other government officials to achieve common goals. Additionally, Mr. Flood highlighted Mayor Black's dedication to community engagement and his willingness to listen to the concerns of constituents. Overall, Mr. Flood expressed his support for Mayor Black's performance as the leader of the city and commended him for his contributions to the community.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+Mr. Flood recognized Mayor David Black as a "paragon of public service and remarkable stewardship" during his speech on January 13, 2026. He highlighted Black's contributions over nearly 5 years of service as mayor, emphasizing how he guided Papillion into becoming a thriving economic hub. The recognition also acknowledged Black's dedication to community engagement and outreach, noting the positive impact these efforts had on attracting businesses and residents. Additionally, Mr. Flood expressed gratitude for Black's outstanding public service and stated that the Congressional Black Caucus would carry forward his legacy.

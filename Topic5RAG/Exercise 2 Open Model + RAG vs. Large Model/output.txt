@@ -1,0 +1,163 @@
+============================================================
+QUESTION:
+Who in Congress has spoken for and against funding of pregnancy centers?
+
+GPT-4o Mini (No RAG) Answer:
+As of my last update in October 2023, discussions around funding for pregnancy centers, particularly crisis pregnancy centers (CPCs), have been a topic of debate in Congress, especially in the context of reproductive health and rights.
+
+**Supporters of Funding:**
+1. **Republican Members**: Many Republican lawmakers have expressed support for funding pregnancy centers, arguing that they provide essential services to women facing unplanned pregnancies. They often emphasize the centers' roles in offering alternatives to abortion and providing resources such as counseling, parenting classes, and material support.
+
+2. **Pro-Life Advocates**: Various pro-life organizations and their supporters in Congress advocate for increased funding for pregnancy centers as part of their broader agenda to promote alternatives to abortion.
+
+**Opponents of Funding:**
+1. **Democratic Members**: Many Democratic lawmakers have opposed funding for pregnancy centers, arguing that some of these centers provide misleading information about abortion and reproductive health. They often advocate for funding that supports comprehensive reproductive health services, including access to abortion.
+
+2. **Reproductive Rights Advocates**: Organizations that support reproductive rights often criticize the funding of pregnancy centers, claiming that they can undermine women's access to accurate information and necessary health services.
+
+Specific names of Congress members who have taken a stand on this issue may vary, and positions can change over time. For the most accurate and up-to-date information, it would be beneficial to check recent congressional records, press releases, or news articles that cover the latest debates and statements regarding funding for pregnancy centers.
+
+
+============================================================
+QUESTION:
+What is the purpose of the Main Street Parity Act?
+
+GPT-4o Mini (No RAG) Answer:
+The Main Street Parity Act is legislation aimed at addressing regulatory disparities between community banks and larger financial institutions. Its primary purpose is to create a more level playing field by ensuring that community banks are not subject to the same burdensome regulations that apply to larger banks, particularly in the context of the Volcker Rule, which restricts proprietary trading and certain investment activities.
+
+The act seeks to provide regulatory relief to smaller banks, allowing them to better serve their communities and compete with larger financial institutions. By easing some of the regulatory requirements, the Main Street Parity Act aims to promote economic growth, enhance lending to small businesses, and support local economies.
+
+Overall, the Main Street Parity Act is intended to foster a more equitable regulatory environment that recognizes the unique role and challenges faced by community banks.
+
+
+============================================================
+QUESTION:
+What did Mr. Flood say about Mayor David Black on January 13, 2026?
+
+GPT-4o Mini (No RAG) Answer:
+I'm sorry, but I don't have access to real-time information or events that occur after my last training cut-off in October 2023. Therefore, I cannot provide details about statements made by Mr. Flood regarding Mayor David Black on January 13, 2026. You may want to check news sources or official statements for the most accurate and up-to-date information.
+
+
+============================================================
+QUESTION:
+What mistake Elise Stefanovic make in Congress on January 23, 2026?
+
+GPT-4o Mini (No RAG) Answer:
+I'm sorry, but I don't have any information on events or actions taken by Elise Stefanovic in Congress on January 23, 2026, as my training only includes data up to October 2023. For the most accurate and up-to-date information, I recommend checking reliable news sources or official congressional records.
+
+API Key Loaded: True
+============================================================
+QUESTION:
+How do I adjust the carburetor on a Model T?
+
+GPT-4o Mini (No RAG) Answer:
+Adjusting the carburetor on a Model T Ford can be a straightforward process, but it requires attention to detail and some mechanical knowledge. The Model T typically uses a simple, gravity-fed carburetor, often the Holley or the Kingston type. Here’s a general guide to help you adjust the carburetor:
+
+### Tools Needed:
+- Screwdriver
+- Wrench (if needed for adjustments)
+- Tachometer (optional, for fine-tuning)
+
+### Steps to Adjust the Carburetor:
+
+1. **Preparation**:
+   - Ensure the engine is off and cool before starting any adjustments.
+   - Check for any fuel leaks around the carburetor and fuel lines.
+
+2. **Locate the Adjustments**:
+   - Identify the main adjustment screws on the carburetor. Typically, there are two main screws: the idle mixture screw and the throttle stop screw.
+
+3. **Adjust the Idle Mixture**:
+   - Start the engine and let it warm up to operating temperature.
+   - With the engine running, locate the idle mixture screw (usually on the side of the carburetor).
+   - Slowly turn the screw in (clockwise) until the engine begins to run rough, then back it out (counterclockwise) until you find the point where the engine runs smoothly. This is usually done by turning the screw out about 1 to 1.5 turns from the fully in position.
+
+4. **Set the Idle Speed**:
+   - Locate the throttle stop screw, which controls the idle speed.
+   - Adjust this screw to set the desired idle speed. A typical idle speed for a Model T is around 400-600 RPM. You can use a tachometer for more precise adjustments.
+
+5. **Check for Smooth Operation**:
+   - After adjusting the idle mixture and speed, rev the engine gently to ensure it responds well without stalling or hesitating.
+   - If the engine hesitates or stalls, you may need to readjust the mixture screw slightly.
+
+6. **Final Adjustments**:
+   - After making the adjustments, take the car for a short drive to see how it performs under load.
+   - If necessary, return to the garage and make further adjustments to the idle mixture and speed.
+
+7. **Inspect for Other Issues**:
+   - If you continue to have issues, check for other problems such as fuel flow, air leaks, or issues with the ignition system.
+
+### Tips:
+- Always make small adjustments and test the engine's response before making further changes.
+
+
+============================================================
+QUESTION:
+What is the correct spark plug gap for a Model T Ford?
+
+GPT-4o Mini (No RAG) Answer:
+The correct spark plug gap for a Model T Ford is typically around 0.025 inches (0.635 mm). It's always a good idea to check the specific recommendations for your particular engine, as there may be slight variations depending on the year and modifications. However, 0.025 inches is a commonly accepted gap for standard Model T spark plugs.
+
+
+============================================================
+QUESTION:
+How do I fix a slipping transmission band?
+
+GPT-4o Mini (No RAG) Answer:
+Fixing a slipping transmission band can be a complex task, as it often involves disassembling parts of the transmission. Here are some general steps you can take to address this issue, but keep in mind that if you're not experienced with automotive repairs, it's best to consult a professional mechanic.
+
+### Steps to Fix a Slipping Transmission Band:
+
+1. **Diagnose the Problem:**
+   - Confirm that the issue is indeed a slipping transmission band. Symptoms may include slipping gears, delayed engagement, or unusual noises.
+   - Check the transmission fluid level and condition. Low or dirty fluid can cause slipping.
+
+2. **Check Transmission Fluid:**
+   - Ensure the transmission fluid is at the correct level. If it's low, top it off with the appropriate type of fluid.
+   - If the fluid is dirty or burnt, consider performing a transmission fluid change.
+
+3. **Inspect the Transmission:**
+   - If the fluid is fine, you may need to inspect the transmission for other issues, such as worn bands, clutches, or internal components.
+   - Look for any visible leaks or damage.
+
+4. **Adjust the Bands (if applicable):**
+   - Some transmissions have adjustable bands. If your transmission allows for this, you can adjust the bands according to the manufacturer’s specifications.
+   - This usually involves locating the band adjustment screws and tightening them to the recommended torque.
+
+5. **Replace the Bands:**
+   - If the bands are worn or damaged, they will need to be replaced. This typically requires disassembling the transmission.
+   - Remove the transmission from the vehicle and take it apart to access the bands.
+   - Replace the worn bands with new ones, ensuring they are the correct size and type for your transmission.
+
+6. **Reassemble and Reinstall:**
+   - After replacing the bands, reassemble the transmission carefully, ensuring all components are in their proper place.
+   - Reinstall the transmission in the vehicle, reconnecting all necessary components.
+
+7. **Test the Transmission:**
+   - After everything is reassembled, fill the transmission with the correct fluid and test drive the vehicle.
+   - Monitor for any slipping or other issues.
+
+### Additional Tips:
+- **Consult the Manual:** Always refer to your vehicle's service manual for specific instructions related to your make and model.
+- **Consider Professional Help:** If you're not comfortable with this level of repair, it may be best to take your vehicle to a qualified transmission specialist.
+- **Preventive Maintenance:** Regularly check and change your transmission fluid to help prevent
+
+
+============================================================
+QUESTION:
+What oil should I use in a Model T engine?
+
+GPT-4o Mini (No RAG) Answer:
+For a Model T engine, it is generally recommended to use a non-detergent oil with a viscosity of 30 weight. Many owners opt for a straight mineral oil or a specific oil formulated for vintage engines. Some modern options include:
+
+1. **Non-Detergent Motor Oil**: Look for a non-detergent oil, as detergent oils can cause issues with older engines that were not designed for them.
+
+2. **SAE 30 Oil**: This is a common choice for Model T engines. It provides adequate lubrication for the engine's design and operating conditions.
+
+3. **Classic Car Oils**: There are specialty oils available that are designed for classic cars and vintage engines, which often have the right properties for older technology.
+
+4. **Multi-Viscosity Oils**: Some owners use 10W-30 or 10W-40 oils, especially in colder climates, but be cautious as these are typically detergent oils.
+
+Always check the owner's manual or consult with a knowledgeable mechanic familiar with Model T engines for the best recommendations based on your specific conditions and usage.
+
+

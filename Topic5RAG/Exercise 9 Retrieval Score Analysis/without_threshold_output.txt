@@ -1,0 +1,110 @@
+
+[1] Query: How do I adjust the carburetor on a Model T?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.5120, 0.4990, 0.4702, 0.4702, 0.3950, 0.3792, 0.3736, 0.3734, 0.3718, 0.3718
+  stats → mean: 0.4216, median: 0.3871, std: 0.0557
+    #1 score=0.5120 src=ModelT-21-30.txt
+       - . aa - ' a The Gasoline System The Carburetor—how does it work? Answer No. 42 The carburetor is of the automatic float feed type, having but one adjustment: shows how the gasoline enters the carburetor, is vaporized by a current Of aif and passes through the inlet pipe to the engine in the form...
+    #2 score=0.4990 src=Ford-Model-T-Man-1919.txt
+       This cut illustrates the principle of Ford Carburetion. » (Cut No. 7) - . aa - ' a The Gasoline System The Carburetor—how does it work? Answer No. 42 The carburetor is of the automatic float feed type, having but one adjustment: shows how the gasoline enters the carburetor, is vaporized by a...
+    #3 score=0.4702 src=Ford-Model-T-Man-1919.txt
+       is neceseary to turn, the adjusting needle down more thatia quarter turn ‘below _ 7 ‘Pend , eee ———— 92 _ THE FORD MANUAL its normal position, the loti nut on. topvof the carburétac at the point through which needle pesses should first be loosened, as otherwise it is impossible to tell when the...
+
+[2] Query: What is the correct spark plug gap for a Model T Ford?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.4806, 0.4806, 0.3697, 0.3697, 0.3595, 0.3507, 0.3507, 0.3341, 0.3088, 0.3010
+  stats → mean: 0.3705, median: 0.3551, std: 0.0593
+    #1 score=0.4806 src=ModelT-11-20.txt
+       fon 7s, aoe =, ~ . . - ‘eg - ‘ant i ve - —_a ae . on a ee = 8 —.-_ 2 a oe " Cylinder Assembly, the correct position of the valves with time gears properly set according to punch marks on the gears, also the relative p ion of the pistons in their sores as indice ted above. The firing order of the...
+    #2 score=0.4806 src=Ford-Model-T-Man-1919.txt
+       ut No. 2) . ; Terminal ie | Sree Cm Rit : Staring Crank Spring Searing Crank Steeve Camm Stadt Fron Bearing Sina Tre Gear Crank Shaft Front Bearing Cain Shaft Crank Case OM Take Prot Pad fon 7s, aoe =, ~ . . - ‘eg - ‘ant i ve - —_a ae . on a ee = 8 —.-_ 2 a oe " Cylinder Assembly, the correct...
+    #3 score=0.3697 src=Ford-Model-T-Man-1919.txt
+       when running they are apt to produce an occasional “miss” in the engine. What is the purpose of the Commutator? Answer No. 59 The commutator (or timer) determines the instant at which the spark plugs must fire. It effects the “make and break” in the primary circuit. The grounded wire in the...
+
+[3] Query: How do I fix a slipping transmission band?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.4897, 0.4279, 0.3483, 0.3240, 0.3229, 0.3223, 0.3170, 0.3168, 0.3077, 0.3048
+  stats → mean: 0.3482, median: 0.3226, std: 0.0581
+    #1 score=0.4897 src=ModelT-31-40.txt
+       ise if they are dropped into the transmission case it is almost impossible to recover them ‘ée Bands adjusted? Answer No. TH The slow.speed band.may be tightened by loosening the lock nut at the tight side of the transmission cover, and turning the adjusting screw (see Cut No. 12)'té tf right. To...
+    #2 score=0.4279 src=Ford-Model-T-Man-1919.txt
+       r by means of the adjusting sttews. within aspace of two or two and one-sixteenth inches to insure against the clafch slipping. Care should be exercised to see that the screws in the fingers areigd- justed so the apring is compressed evenly all around. ' { H _t . ee on See er iad “~«~ te we en Ve...
+    #3 score=0.3483 src=ModelT-41-50.txt
+       - ' inde os ~~ ~ ee Fr THE FORD MANUAL , snenethegemaneemn : ithe . Wheat about the Stgering Se ar a Apparatus? Answer No. 96 It is exceedingly gipple and will need little care—except, of course, proper lubri- . cation. The post’ gears which are arranged in the “sun and planet” form are By...
+
+[4] Query: What oil should I use in a Model T engine?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.3973, 0.3973, 0.3226, 0.3191, 0.3183, 0.3148, 0.3092, 0.3092, 0.3071, 0.3071
+  stats → mean: 0.3302, median: 0.3165, std: 0.0339
+    #1 score=0.3973 src=Ford-Model-T-Man-1919.txt
+       k may be drained by opening the pet cock in the sediment bulb at the bottom. , Slow about - . the Oiling System? Answer No. 3 Upon receipt of the car see that a supply of medium light, high-grade gas engine oll is poured into the crank case through the breather pipe at the front of the. engine (a...
+    #2 score=0.3973 src=ModelT-01-10.txt
+       k may be drained by opening the pet cock in the sediment bulb at the bottom. , Slow about - . the Oiling System? Answer No. 3 Upon receipt of the car see that a supply of medium light, high-grade gas engine oll is poured into the crank case through the breather pipe at the front of the. engine (a...
+    #3 score=0.3226 src=ModelT-51-60.txt
+       oil stone. Too tight 2 fit will cause the bearing to freeze to the | bracket, resulting in serious damage to the starter. ' : -i{6w is the Generator ; eel - Answer No. 130 ‘ahit is found necemary to remove the-eenerator, Sat 'take ont the ches cap Genes! thal generator and feent end cover, Sos...
+
+[5] Query: How do I tighten the brake and reverse bands?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.5662, 0.4140, 0.3839, 0.3659, 0.3659, 0.3563, 0.3516, 0.3230, 0.3134, 0.3134
+  stats → mean: 0.3754, median: 0.3611, std: 0.0703
+    #1 score=0.5662 src=ModelT-31-40.txt
+       ise if they are dropped into the transmission case it is almost impossible to recover them ‘ée Bands adjusted? Answer No. TH The slow.speed band.may be tightened by loosening the lock nut at the tight side of the transmission cover, and turning the adjusting screw (see Cut No. 12)'té tf right. To...
+    #2 score=0.4140 src=Ford-Model-T-Man-1919.txt
+       ent a wl f fo cingeal between the n chateh dace and prevent Pooper abtion of . Answer No. 45 ‘floor boards at tie driver's * Magneto Coniact —— Transmission Core: Reverse Pedal Shatt ‘Transmission Band Specs Reverse Adpstinigy Nu: fo stow Speed Adjusting Nut“ Stow Spees Adnenns Screw ¥ wing Place...
+    #3 score=0.3839 src=ModelT-41-50.txt
+       - ' inde os ~~ ~ ee Fr THE FORD MANUAL , snenethegemaneemn : ithe . Wheat about the Stgering Se ar a Apparatus? Answer No. 96 It is exceedingly gipple and will need little care—except, of course, proper lubri- . cation. The post’ gears which are arranged in the “sun and planet” form are By...
+
+[6] Query: What causes engine misfires at high speed?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.4278, 0.3895, 0.3452, 0.3452, 0.3324, 0.3324, 0.3086, 0.3086, 0.2994, 0.2994
+  stats → mean: 0.3388, median: 0.3324, std: 0.0395
+    #1 score=0.4278 src=Ford-Model-T-Man-1919.txt
+       ulb. oo Coil switch off. ENGINE LACKS | POWER—RUNS -IRREGULARL ; At Low Speeds. 1. Poor compression—account leaky ‘valves. 2. Gas mixture too rich or too lean. 3. Spark plugs dirty. 4. Cbdil vibrator improperly adjusted. | S Air leak in intake manifold. 6. Weak exhaust valve spring. , 7. Too...
+    #2 score=0.3895 src=ModelT-51-60.txt
+       piston heads. 2. Loose connecting rod bearing. 3. Loose crank shaft bearing. 4. Spark advanced too far.
+    #3 score=0.3452 src=Ford-Model-T-Man-1919.txt
+       than efter the parts have become thoroughly “worked! ‘he car which is driven slowly and carefully when new usually gives thei aure that is has plenty of oil and water. Frequently inspect the running gear; Se that no unnecessary play exists in either front or rear wheels, and that bolts 'gnd nuts...
+
+[7] Query: How often should the Model T be lubricated?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.4714, 0.3549, 0.3549, 0.3497, 0.3418, 0.3010, 0.2975, 0.2938, 0.2709, 0.2601
+  stats → mean: 0.3296, median: 0.3214, std: 0.0578
+    #1 score=0.4714 src=ModelT-41-50.txt
+       ary to overcome any exces- ve. vibration, ' . ta al Pc Lubrication Chart. (Cut No. 18) a THE FORD LUBRICATING SYSTEM a7 Don’t be afraid to put a little oil into the commutator every other day—at least every 200 miles, Remember that the commutator roller revolves very rapidly, and without...
+    #2 score=0.3549 src=Ford-Model-T-Man-1919.txt
+       k may be drained by opening the pet cock in the sediment bulb at the bottom. , Slow about - . the Oiling System? Answer No. 3 Upon receipt of the car see that a supply of medium light, high-grade gas engine oll is poured into the crank case through the breather pipe at the front of the. engine (a...
+    #3 score=0.3549 src=ModelT-01-10.txt
+       k may be drained by opening the pet cock in the sediment bulb at the bottom. , Slow about - . the Oiling System? Answer No. 3 Upon receipt of the car see that a supply of medium light, high-grade gas engine oll is poured into the crank case through the breather pipe at the front of the. engine (a...
+
+[8] Query: How is the generator maintained on a Model T?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.4979, 0.4731, 0.3887, 0.3727, 0.3727, 0.3705, 0.3705, 0.3445, 0.3444, 0.3337
+  stats → mean: 0.3869, median: 0.3716, std: 0.0521
+    #1 score=0.4979 src=ModelT-51-60.txt
+       oil stone. Too tight 2 fit will cause the bearing to freeze to the | bracket, resulting in serious damage to the starter. ' : -i{6w is the Generator ; eel - Answer No. 130 ‘ahit is found necemary to remove the-eenerator, Sat 'take ont the ches cap Genes! thal generator and feent end cover, Sos...
+    #2 score=0.4731 src=Ford-Model-T-Man-1919.txt
+       e bracket ard the cylinder block. The ; bracket should rest tightly on the crankcase gasket add line up with the fate of J _ a +} 1 : cy Lee gh . _ 7 an? ae -d Can pEngine be run with the n Genergtor disconnected from , the battery? Answer No. .132 “If for aty. reason the engine is run with the...
+    #3 score=0.3887 src=ModelT-51-60.txt
+       ery for a break in the insulation that would . result in a short-circuit. If the trouble is not located, then remove the dust’ cap from the end of generator and thoroughly clean the generator commutator, using for this work a fine grade of sandpaper which has been slightly oiled. With the motor...
+
+[9] Query: What is the recommended adjustment for the clutch?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.4453, 0.4452, 0.4331, 0.3703, 0.3703, 0.3568, 0.3521, 0.3411, 0.3294, 0.3222
+  stats → mean: 0.3766, median: 0.3636, std: 0.0449
+    #1 score=0.4453 src=ModelT-31-40.txt
+       y passing a cord around the outside of the three gears. Take.the wheel and it on the table with the face downward api the t ao drum, then a amall disc, alternating with large and small dieca until the eee set of diecs dre.in position, ending up with a large disc on top. ; re hQ If aemall discis...
+    #2 score=0.4452 src=Ford-Model-T-Man-1919.txt
+       hey will come next to theslow speed geat:. ‘Dik . Transmission parts in their relative assembling positions. (Cut No. 13) THE FORD TRANSMISSION downward. After making sufe that the triple gears are properly meshed 34! ar in place by passing a cord around the outside of the three gears. Take.the...
+    #3 score=0.4331 src=Ford-Model-T-Man-1919.txt
+       ent a wl f fo cingeal between the n chateh dace and prevent Pooper abtion of . Answer No. 45 ‘floor boards at tie driver's * Magneto Coniact —— Transmission Core: Reverse Pedal Shatt ‘Transmission Band Specs Reverse Adpstinigy Nu: fo stow Speed Adjusting Nut“ Stow Spees Adnenns Screw ¥ wing Place...
+
+[10] Query: Where is the crankcase oil reservoir and how to check it?
+  Retrieved: 10 | Above threshold: 10
+  Filtered similarity scores: 0.4484, 0.4484, 0.3933, 0.3933, 0.3597, 0.3547, 0.3368, 0.3234, 0.3192, 0.3192
+  stats → mean: 0.3696, median: 0.3572, std: 0.0471
+    #1 score=0.4484 src=Ford-Model-T-Man-1919.txt
+       k may be drained by opening the pet cock in the sediment bulb at the bottom. , Slow about - . the Oiling System? Answer No. 3 Upon receipt of the car see that a supply of medium light, high-grade gas engine oll is poured into the crank case through the breather pipe at the front of the. engine (a...
+    #2 score=0.4484 src=ModelT-01-10.txt
+       k may be drained by opening the pet cock in the sediment bulb at the bottom. , Slow about - . the Oiling System? Answer No. 3 Upon receipt of the car see that a supply of medium light, high-grade gas engine oll is poured into the crank case through the breather pipe at the front of the. engine (a...
+    #3 score=0.3933 src=Ford-Model-T-Man-1919.txt
+       pressure of approxi pounds per square iach.) At this point the electric spark, gene drives the exploded gas (See Cut No. 3.) tt le a steel rod, connecting piston and crank shaft. Should the babbitt beating become worn, or burned out through lack of oil, a knocking in the engine reault—in which...

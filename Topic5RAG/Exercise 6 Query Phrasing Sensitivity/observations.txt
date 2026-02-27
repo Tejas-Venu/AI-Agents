@@ -1,0 +1,8 @@
+Which phrasings retrieve the best chunks?
+The most formal and technically precise phrasings — such as “What is the specified spark plug gap…”, “What spark plug electrode gap measurement is recommended…” and “What is the proper spacing…” — retrieve the most consistent and overlapping top chunks (Jaccard = 1.0 between several of them). The maintenance-focused phrasing also performs strongly, while the casual phrasing retrieves slightly more varied results.
+
+Do keyword-style queries work better or worse than natural questions?
+The keyword-style query (“Model T spark plug gap specification”) performs reasonably well but shows lower overlap (0.5 with some formal versions) compared to the most structured natural questions. This suggests keyword queries are effective but slightly less stable than well-formed, semantically clear natural language questions.
+
+What does this tell you about potential query rewriting strategies?
+This suggests that semantically precise, technically worded queries produce the most stable retrieval, so query rewriting strategies should favor clarity, inclusion of domain-specific terms (e.g., “electrode,” “measurement,” “specification”), and removal of ambiguity. Automated rewriting that normalizes casual phrasing into structured, technical language could improve retrieval consistency.

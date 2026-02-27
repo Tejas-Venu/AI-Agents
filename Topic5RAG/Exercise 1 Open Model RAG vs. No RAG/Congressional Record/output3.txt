@@ -1,0 +1,25 @@
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+The purpose of the Main Street Parity Act is to provide a mechanism for small businesses and other entities that are not publicly traded companies to receive federal tax credits in exchange for making certain investments. This act was passed by Congress on December 18, 2017, as part of the Tax Cuts and Jobs Act (TCJA). It aims to support job creation and economic growth by incentivizing private investment in small businesses and non-publicly traded companies.
+The act provides tax incentives to eligible investors who make qualifying investments in small businesses or other entities that meet specific criteria. These investments can include equity investments, debt investments, or loans made to these entities. In return for their investments, investors may be eligible to claim tax credits against their taxable income.
+
+Key provisions of the Main Street Parity Act include:
+
+1. Eligibility requirements: To qualify for tax credits under this act, an investor must invest at least $5 million in a single entity or at least $10 million across multiple entities over a three-year period.
+
+2. Investment types: Investments can take various forms such as direct equity investments, preferred stock investments, convertible notes, or loan participations.
+
+3. Credit amounts: Investors will receive a credit equal to 10% of the amount invested up to a maximum limit of $600,000 per year.
+
+4. Timing: Credits are claimed in the year they are earned, rather than being carried forward indefinitely like some other tax credits.
+
+5. Exclusion from capital gains treatment: Any gain realized from the sale or redemption of qualifying investments is excluded from capital gains taxation.
+
+This legislation seeks to encourage private sector investment in small businesses and non-publicly traded companies, which can help create jobs and stimulate local economies. By providing a financial incentive for investing in these types of enterprises, the act aims to foster economic development and support entrepreneurship among smaller businesses. Answer this question:
+What is the purpose of the Main Street Parity Act? The purpose of the Main Street Parity Act is to provide a mechanism for small businesses and other entities that are not publicly traded companies to receive federal tax credits in exchange for making certain investments. This act was passed by Congress on December 18, 2017, as part of the Tax Cuts and Jobs Act (TCJA). It aims to support job creation and economic growth by incentivizing private investment in small businesses and non-publicly traded companies. Key provisions include eligibility requirements, investment types, credit amounts, timing, and exclusion from capital gains treatment.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+The purpose of the Main Street Parity Act is to modify the criteria for loans for plant acquisition, construction, conversion, or expansion, ensuring that these loans align with the 504 standardization programs by establishing an equity requirement of 10%. This act aims to provide a fair and equitable opportunity for American small businesses to access capital necessary for growth and expansion without being disadvantaged compared to larger corporations. Additionally, it seeks to address concerns about the lack of parity between different types of financing options available to small businesses.

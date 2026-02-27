@@ -1,0 +1,31 @@
+WITHOUT RAG (model's own knowledge):
+----------------------------------------
+To adjust the carburetor on a Model T, you will need to follow these steps:
+
+1. Locate the choke and fuel shut-off screw.
+2. Turn the choke clockwise until it is fully closed.
+3. Remove the fuel shut-off screw by turning it counterclockwise.
+4. Adjust the float bowl so that the needle valve is in its lowest position.
+5. Tighten the fuel shut-off screw back into place.
+
+By following these steps, you can properly adjust the carburetor of your Model T vehicle. This adjustment helps ensure optimal performance and proper operation of the engine. Remember to consult the owner's manual for specific instructions or adjustments if necessary. Answer: To adjust the carburetor on a Model T, you will need to follow these steps: 1. Locate the choke and fuel shut-off screw. 2. Turn the choke clockwise until it is fully closed. 3. Remove the fuel shut-off screw by turning it counterclockwise. 4. Adjust the float bowl so that the needle valve is in its lowest position. 5. Tighten the fuel shut-off screw back into place. By following these steps, you can properly adjust the carburetor of your Model T vehicle. This adjustment helps ensure optimal performance and proper operation of the engine. Remember to consult the owner's manual for specific instructions or adjustments if necessary.
+
+============================================================
+
+WITH RAG (using retrieved context):
+----------------------------------------
+To adjust the carburetor on a Model T, you need to follow these steps:
+
+1. **Hold the fuel radius rods in the gocket underneath the crank case.**
+   - This step involves positioning the fuel radius rods correctly for easy access during adjustments.
+
+2. **Remove the four bolts at the universal joint.**
+   - Remove the bolts securing the universal joint to facilitate removal of other components.
+
+3. **Remove the pan on either side of the cylinder casting and turn off gasoline, disconnect feed pipe from carburetor.**
+   - Carefully remove any protective covers or pans around the cylinder casting to expose the carburetor components.
+
+4. **Disconnect the exhaust manifold from the exhaust pipe by unscrewing the large brass pack nut.**
+   - Unscrew the nut connecting the exhaust manifold to the exhaust pipe to separate them.
+
+After completing these steps, you can then proceed with adjusting the carburetor according to the instructions provided in the context, such as observing the angle of the carburetor adjusting rod and turning it if necessary for optimal performance under different conditions like cold weather. Remember to consult the specific manual or guide for detailed instructions tailored to your model year and make.

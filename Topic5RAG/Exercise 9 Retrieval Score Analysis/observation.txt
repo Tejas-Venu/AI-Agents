@@ -1,0 +1,15 @@
+When is there a clear “winner”?
+A clear winner appears when the top score is noticeably higher than the rest (e.g., How do I tighten the brake and reverse bands?— 0.5662 vs next 0.4140), indicating a high-confidence, focused match. In practice those cases have top scores ≳0.55 and a gap ≳0.12.
+
+When are scores tightly clustered (ambiguous)?
+Scores are tightly clustered (e.g., carburetor, spark-plug, oil, generator queries with many scores around 0.32–0.50) when multiple chunks are similarly relevant or OCR/noise reduces discriminative signal, making retrieval ambiguous. Those clusters indicate the model cannot strongly prefer a single chunk.
+
+What score threshold would you use to filter out irrelevant results?
+Based on these distributions, 0.50 is a reasonable high-precision cutoff (keeps only very confident hits), while ~0.40–0.45 is a better tradeoff for preserving recall but filtering obvious noise. Use 0.5 for precision-critical tasks and 0.4–0.45 when you need more coverage.
+
+How does score distribution correlate with answer quality?
+Higher top scores (and larger top-1/top-2 gaps) generally correlate with more focused, answerable retrieval (better answer quality), while low/flat score distributions correlate with partial, noisy, or incomplete answers. In other words, strong, isolated peaks → better answers; flat profiles → likely partial/incomplete results.
+
+
+How does threshold affect results?
+Applying a 0.5 threshold dramatically reduces returned results (only 2 of 10 queries returned any chunk), which raises precision but at the cost of recall — many plausible answers are dropped because their top scores fell below 0.5. So thresholding makes the system conservative: fewer, higher-confidence hits but more missed answers that might still be useful.

@@ -1,0 +1,212 @@
+======================================================================
+Query: What are ALL the maintenance tasks I need to do monthly?
+Top-k: 3
+- Answer (first 2 paragraphs):
+Monthly maintenance tasks include:
+
+1. Removing and cleaning the hub caps of all tires.
+2. Lubricating the hub caps with grease every three or four months.
+3. Cleaning the hubs and bearings with kerosene every three or four months.
+4. Repacking the hub and bearings with clean grease after cleaning.
+5. Adjusting the bearings after repacking.
+6. Lubricating the springs frequently with oil or graphite.
+7. Disassembling and polishing the spring leaves when giving a general overhaul.
+8. Packing the spring leaves with graphite after reassembly.
+
+- Metrics: groundedness=0.000, citation_quality=0.000, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: Ford-Model-T-Man-1919.txt, ModelT-41-50.txt, ModelT-41-50.txt
+======================================================================
+
+======================================================================
+Query: What are ALL the maintenance tasks I need to do monthly?
+Top-k: 5
+- Answer (first 2 paragraphs):
+Monthly maintenance tasks include:
+
+1. Lubricating the hub caps with grease and securing them properly on the hubs.
+2. Removing and cleaning the hubs and bearings with kerosene, then repacking them with fresh grease and adjusting the bearings.
+3. Lubricating the springs frequently with oil or graphite, separating the leaves as needed, polishing them with emery cloth, and packing them back with graphite when reassembling.
+4. Ensuring that the car's entire organization is focused on maintaining optimal performance and minimizing unnecessary repair costs.
+5. Starting the car only after making satisfactory adjustments and ensuring there is no motivation for starting without proper repairs.
+
+- Metrics: groundedness=0.000, citation_quality=0.000, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: Ford-Model-T-Man-1919.txt, ModelT-41-50.txt, Ford-Model-T-Man-1919.txt, ModelT-41-50.txt, Ford-Model-T-Man-1919.txt
+======================================================================
+
+======================================================================
+Query: What are ALL the maintenance tasks I need to do monthly?
+Top-k: 10
+- Answer (first 2 paragraphs):
+Monthly maintenance tasks include:
+
+1. Lubricating the hub caps with grease and securing them onto the hubs.
+2. Removing and cleaning the wheels' bearings and hubs with kerosene, then repacking them with fresh grease and adjusting the bearings.
+3. Regularly lubricating the springs with oil or graphite, especially after major repairs.
+4. Painting the wheel rims annually to prevent rust.
+5. Jacking up the car periodically if stored for extended periods to avoid damage due to temperature changes.
+6. Ensuring all bolts and nuts are tightened properly and checking for any unnecessary play in the wheels.
+7. Inspecting the car's running gear regularly to ensure there is enough oil and water, and that all adjustments are made promptly upon noticing any issues.
+
+- Metrics: groundedness=0.000, citation_quality=0.000, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: Ford-Model-T-Man-1919.txt, ModelT-41-50.txt, Ford-Model-T-Man-1919.txt, ModelT-41-50.txt, Ford-Model-T-Man-1919.txt, ModelT-01-10.txt, Ford-Model-T-Man-1919.txt, ModelT-41-50.txt, Ford-Model-T-Man-1919.txt, ModelT-01-10.txt
+======================================================================
+
+======================================================================
+Query: Compare the procedures for adjusting the carburetor vs adjusting the transmission bands.
+Top-k: 3
+- Answer (first 2 paragraphs):
+Both the carburetor and transmission band adjustments require careful attention to ensure optimal performance and safety. For the carburetor, the procedure involves observing the angle of the carburetor adjusting rod when the engine runs smoothly and making minor adjustments as needed based on temperature changes. This ensures consistent fuel flow and proper operation under varying conditions. Adjustments to the transmission bands involve monitoring the gear ratios and shifting points to maintain smooth and efficient vehicle movement. Both processes aim to optimize performance while preventing potential hazards associated with improper settings. The sources used were "Ford-Model-T-Man-1919.txt" and "ModelT-21-30.txt". These documents provide detailed explanations of how these systems function and why they are crucial for safe and reliable driving. To summarize:
+
+Carburetor Adjustment:
+- Observation of carburetor adjusting rod angle for smooth running.
+- Minor adjustments based on tempe
+
+- Metrics: groundedness=0.000, citation_quality=0.500, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: Ford-Model-T-Man-1919.txt, ModelT-21-30.txt, Ford-Model-T-Man-1919.txt
+======================================================================
+
+======================================================================
+Query: Compare the procedures for adjusting the carburetor vs adjusting the transmission bands.
+Top-k: 5
+- Answer (first 2 paragraphs):
+Both the carburetor and transmission band adjustments serve crucial functions in maintaining optimal performance and safety of the vehicle. However, they operate under different principles and require distinct methods of adjustment:
+
+1. **Carburetor Adjustment**:
+   - **Purpose**: To regulate the flow of fuel into the engine's cylinders.
+   - **Procedure**: Adjustments are made via the carburetor adjusting rod located on the dashboard. The driver observes the angle of this rod to determine the best setting for their driving style and environmental conditions (e.g., cold weather).
+   - **Mechanism**: Fuel enters the mixture through the float and needle mechanism, with the needle valve controlling the amount based on throttle position. Gasoline levels are automatically maintained due to its automatic action.
+   - **Adjustment Considerations**: Cold weather may necessitate turning the adjustment slightly to the left to ensure adequate fuel supply during start-up.
+
+- Metrics: groundedness=0.000, citation_quality=0.000, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: Ford-Model-T-Man-1919.txt, ModelT-21-30.txt, Ford-Model-T-Man-1919.txt, ModelT-21-30.txt, ModelT-21-30.txt
+======================================================================
+
+======================================================================
+Query: Compare the procedures for adjusting the carburetor vs adjusting the transmission bands.
+Top-k: 10
+- Answer (first 2 paragraphs):
+Both the carburetor and transmission band adjustments require careful attention to ensure optimal performance and safety.
+
+For the carburetor, the procedure involves observing the carburetor adjusting rod's position during operation to determine the best fuel-to-air ratio. If the engine operates satisfactorily but requires frequent adjustments, the driver can adjust the carburetor by turning the adjusting rod slightly to the right, especially when starting a cold engine. Additionally, in colder weather, this adjustment might need to be made further to improve efficiency.
+
+- Metrics: groundedness=0.000, citation_quality=0.000, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: Ford-Model-T-Man-1919.txt, ModelT-21-30.txt, Ford-Model-T-Man-1919.txt, ModelT-21-30.txt, Ford-Model-T-Man-1919.txt, ModelT-21-30.txt, Ford-Model-T-Man-1919.txt, ModelT-21-30.txt, Ford-Model-T-Man-1919.txt, ModelT-21-30.txt
+======================================================================
+
+======================================================================
+Query: What tools do I need for a complete Model T tune-up?
+Top-k: 3
+- Answer (first 2 paragraphs):
+To perform a complete Model T tune-up, you will need the following tools:
+
+1. Terminal post wrench - This tool is essential for checking and tightening terminal posts on the ammeter, ensuring secure connections between wires and terminals.
+
+- Metrics: groundedness=0.000, citation_quality=0.500, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: ModelT-01-10.txt, ModelT-61-62.txt, Ford-Model-T-Man-1919.txt
+======================================================================
+
+======================================================================
+Query: What tools do I need for a complete Model T tune-up?
+Top-k: 5
+- Answer (first 2 paragraphs):
+To perform a complete Model T tune-up, you will need the following tools:
+
+1. A set of socket wrenches for adjusting various components such as camshaft rear bearing, crank salt rear bearing, crank shaft front bearing, and crank case oil drain plug.
+2. A torque wrench for tightening bolts and nuts according to the manufacturer's specifications.
+3. A multimeter to check electrical connections and ensure they are properly connected.
+4. Pliers or a screwdriver for short-circuiting terminals when necessary.
+5. Wire cutters and strippers to remove old wires and connect new ones.
+6. An Allen key set for accessing certain fasteners.
+7. A flashlight for visibility during repairs.
+8. A small Phillips head screwdriver for minor adjustments.
+9. A set of replacement parts if any worn-out components are found.
+
+- Metrics: groundedness=0.000, citation_quality=0.000, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: ModelT-01-10.txt, ModelT-61-62.txt, Ford-Model-T-Man-1919.txt, ModelT-51-60.txt, Ford-Model-T-Man-1919.txt
+======================================================================
+
+======================================================================
+Query: What tools do I need for a complete Model T tune-up?
+Top-k: 10
+- Answer (first 2 paragraphs):
+To perform a complete Model T tune-up, you will need the following tools:
+
+1. A socket set with appropriate sockets for various bolts and nuts.
+2. A wrench set with appropriate sizes for tightening bolts and adjusting components.
+3. A torque wrench for precise adjustments.
+4. A feeler gauge to check clearance between moving parts.
+5. A multimeter to measure electrical connections and voltages.
+6. A set of Allen keys for accessing small fasteners.
+7. A set of Phillips head screws and drivers for removing old seals and gaskets.
+8. A set of flathead screws and drivers for other fastening tasks.
+9. A set of adjustable wrenches for handling larger bolts and nuts.
+10. A set of locking washers for securing components.
+11. A set of lubricants suitable for automotive applications.
+12. A set of spark plugs and ignition wires.
+13. A set of air cleaner elements if applicable.
+14. A set of fuel injectors if applicable.
+15. A set of oil filters if applicable.
+16. A set of brake shoes and pads if app
+
+- Metrics: groundedness=0.000, citation_quality=0.000, helpfulness=1.000, source_coverage=0.000
+Retrieved sources: ModelT-01-10.txt, ModelT-61-62.txt, Ford-Model-T-Man-1919.txt, ModelT-51-60.txt, Ford-Model-T-Man-1919.txt, Ford-Model-T-Man-1919.txt, ModelT-51-60.txt, Ford-Model-T-Man-1919.txt, ModelT-01-10.txt, Ford-Model-T-Man-1919.txt
+======================================================================
+
+======================================================================
+Query: Summarize all safety warnings in the manual.
+Top-k: 3
+- Answer (first 2 paragraphs):
+The safety warnings in the Ford Model T manual include:
+
+1. Inspect the steering mechanism periodically to check if new bushings are needed to reduce excessive vibrations caused by play in the steering gear.
+2. Lubricate the steering system regularly to prevent wear on components like the little pinions and brass gears beneath the steering wheel spider.
+3. Ensure that the front springs and their perches are inspected periodically to detect potential issues with bushings that could cause excessive vibration.
+4. Check the engine's condition by examining the magneto wires and contacts; overheating can be due to insufficient oil or water supply.
+5. Address engine overheat problems by checking for water deficiency, ensuring proper lubrication, verifying fan belt integrity, addressing carbon deposits in the combustion chamber, adjusting spark timing, correcting gas mixtures, monitoring water circulation through the radiator, and cleaning spark plugs.
+6. Diagnose engine knocking by evaluating
+
+- Metrics: groundedness=0.000, citation_quality=0.000, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: Ford-Model-T-Man-1919.txt, ModelT-41-50.txt, ModelT-51-60.txt
+======================================================================
+
+======================================================================
+Query: Summarize all safety warnings in the manual.
+Top-k: 5
+- Answer (first 2 paragraphs):
+The following safety warnings can be found in the Ford Model T Manual:
+
+1. **Steering Gear Inspection**: It is advisable to periodically check the front spring and front spring perches to ensure that new bushings are needed to address any excessive vibrations.
+
+- Metrics: groundedness=0.000, citation_quality=0.500, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: Ford-Model-T-Man-1919.txt, ModelT-41-50.txt, Ford-Model-T-Man-1919.txt, ModelT-51-60.txt, ModelT-51-60.txt
+======================================================================
+
+======================================================================
+Query: Summarize all safety warnings in the manual.
+Top-k: 10
+- Answer (first 2 paragraphs):
+The following safety warnings can be found in the Ford Model T Manual:
+
+1. **Steering Gear Inspection**: It is advisable to periodically inspect the steering mechanism for signs of wear such as excessive play, which might necessitate replacing small pinions and brass gears beneath the steering wheel's spider. Additionally, checking the front springs and their perches could help identify if new bushings are required to mitigate any excessive vibrations.
+
+- Metrics: groundedness=0.000, citation_quality=0.500, helpfulness=1.000, source_coverage=1.000
+Retrieved sources: Ford-Model-T-Man-1919.txt, ModelT-41-50.txt, Ford-Model-T-Man-1919.txt, ModelT-51-60.txt, ModelT-51-60.txt, Ford-Model-T-Man-1919.txt, ModelT-51-60.txt, Ford-Model-T-Man-1919.txt, ModelT-21-30.txt, Ford-Model-T-Man-1919.txt
+======================================================================
+
+
+SUMMARY TABLE (numeric scores only)
+
+Query                                      k  Grounded  Citation  Helpful  Coverage  #retr
+------------------------------------------------------------------------------------------
+What are ALL the maintenance tasks I nee   3     0.000     0.000    1.000     1.000      3
+What are ALL the maintenance tasks I nee   5     0.000     0.000    1.000     1.000      5
+What are ALL the maintenance tasks I nee  10     0.000     0.000    1.000     1.000     10
+Compare the procedures for adjusting the   3     0.000     0.500    1.000     1.000      3
+Compare the procedures for adjusting the   5     0.000     0.000    1.000     1.000      5
+Compare the procedures for adjusting the  10     0.000     0.000    1.000     1.000     10
+What tools do I need for a complete Mode   3     0.000     0.500    1.000     1.000      3
+What tools do I need for a complete Mode   5     0.000     0.000    1.000     1.000      5
+What tools do I need for a complete Mode  10     0.000     0.000    1.000     0.000     10
+Summarize all safety warnings in the man   3     0.000     0.000    1.000     1.000      3
+Summarize all safety warnings in the man   5     0.000     0.500    1.000     1.000      5
+Summarize all safety warnings in the man  10     0.000     0.500    1.000     1.000     10

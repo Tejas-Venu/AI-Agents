@@ -1,0 +1,225 @@
+
+================================================================================
+PHRASING: What is the specified spark plug gap for a Model T Ford engine?
+================================================================================
+Rank #1
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.5353
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #2
+Chunk ID/Source: ModelT-21-30.txt
+Similarity Score: 0.5353
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #3
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.5042
+Excerpt: re should be exercised not to scrape off the glazed surface of the porcelain, | otlierwise it will be apt to carbonize quickly. The porcelain and other parts should finally be washed in gasoline and wiped dry with a cloth. oe  ~ . _—_    THE FORD ENGINE is  In assembling the plug care should be take...
+------------------------------------------------------------
+Rank #4
+Chunk ID/Source: ModelT-11-20.txt
+Similarity Score: 0.5042
+Excerpt: re should be exercised not to scrape off the glazed surface of the porcelain, | otlierwise it will be apt to carbonize quickly. The porcelain and other parts should finally be washed in gasoline and wiped dry with a cloth. oe  ~ . _—_    THE FORD ENGINE is  In assembling the plug care should be take...
+------------------------------------------------------------
+Rank #5
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.4707
+Excerpt: th notch, with the spark retarded fo-ahout the fourth notch. The flow of gasoline should now be cut off by acrewing the needle  valve down to the right until the engine begins to misfire, then gradually. inere the gasoline feed by opening the needle valve until the motor pickup and féathes its highe...
+------------------------------------------------------------
+
+================================================================================
+PHRASING: How wide should the spark plug gap be on a Model T?
+================================================================================
+Rank #1
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.4794
+Excerpt: in each spark plug it is forced to jump a ¥;" gap, thereby forming a spark which ignites the gasoline charge in the cylinders.  The spark plugs sliould be kept clean (i. ¢., free from carbon) and should be re- placed if they peréist in not working properly. There is nothing to be gained by experimen...
+------------------------------------------------------------
+Rank #2
+Chunk ID/Source: ModelT-21-30.txt
+Similarity Score: 0.4794
+Excerpt: in each spark plug it is forced to jump a ¥;" gap, thereby forming a spark which ignites the gasoline charge in the cylinders.  The spark plugs sliould be kept clean (i. ¢., free from carbon) and should be re- placed if they peréist in not working properly. There is nothing to be gained by experimen...
+------------------------------------------------------------
+Rank #3
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.4454
+Excerpt: Weak exhaust valve spring.  , 7. Too great clearance between valve , eter and push rod.  | 8. Too close gap between spark plug  ‘At High Speeds. 1. ‘Commutator contact imperfect. 3. Too much gap in spark plug. 4, Imperfect gas mixture,  ENGINE STOPS SUDDENLY ~, |  1. Gasoline tank empty... Water in...
+------------------------------------------------------------
+Rank #4
+Chunk ID/Source: ModelT-51-60.txt
+Similarity Score: 0.4454
+Excerpt: Weak exhaust valve spring.  , 7. Too great clearance between valve , eter and push rod.  | 8. Too close gap between spark plug  ‘At High Speeds. 1. ‘Commutator contact imperfect. 3. Too much gap in spark plug. 4, Imperfect gas mixture,  ENGINE STOPS SUDDENLY ~, |  1. Gasoline tank empty... Water in...
+------------------------------------------------------------
+Rank #5
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.4407
+Excerpt: as to crack the porcelain, and the distance between’ the sparking points should be 74", about the thickness of a smooth dime.  Dirty plugs usually result from an excess of oil being carried in the crank case— or from using oil of poor quality.  How is the Power Plant ; Femoved from Car? Answer No....
+------------------------------------------------------------
+
+================================================================================
+PHRASING: What spark plug electrode gap measurement is recommended for the Model T Ford?
+================================================================================
+Rank #1
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.5046
+Excerpt: re should be exercised not to scrape off the glazed surface of the porcelain, | otlierwise it will be apt to carbonize quickly. The porcelain and other parts should finally be washed in gasoline and wiped dry with a cloth. oe  ~ . _—_    THE FORD ENGINE is  In assembling the plug care should be take...
+------------------------------------------------------------
+Rank #2
+Chunk ID/Source: ModelT-11-20.txt
+Similarity Score: 0.5046
+Excerpt: re should be exercised not to scrape off the glazed surface of the porcelain, | otlierwise it will be apt to carbonize quickly. The porcelain and other parts should finally be washed in gasoline and wiped dry with a cloth. oe  ~ . _—_    THE FORD ENGINE is  In assembling the plug care should be take...
+------------------------------------------------------------
+Rank #3
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.5006
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #4
+Chunk ID/Source: ModelT-21-30.txt
+Similarity Score: 0.5006
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #5
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.4562
+Excerpt: th notch, with the spark retarded fo-ahout the fourth notch. The flow of gasoline should now be cut off by acrewing the needle  valve down to the right until the engine begins to misfire, then gradually. inere the gasoline feed by opening the needle valve until the motor pickup and féathes its highe...
+------------------------------------------------------------
+
+================================================================================
+PHRASING: Model T spark plug gap specification
+================================================================================
+Rank #1
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.5093
+Excerpt: in each spark plug it is forced to jump a ¥;" gap, thereby forming a spark which ignites the gasoline charge in the cylinders.  The spark plugs sliould be kept clean (i. ¢., free from carbon) and should be re- placed if they peréist in not working properly. There is nothing to be gained by experimen...
+------------------------------------------------------------
+Rank #2
+Chunk ID/Source: ModelT-21-30.txt
+Similarity Score: 0.5093
+Excerpt: in each spark plug it is forced to jump a ¥;" gap, thereby forming a spark which ignites the gasoline charge in the cylinders.  The spark plugs sliould be kept clean (i. ¢., free from carbon) and should be re- placed if they peréist in not working properly. There is nothing to be gained by experimen...
+------------------------------------------------------------
+Rank #3
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.4535
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #4
+Chunk ID/Source: ModelT-21-30.txt
+Similarity Score: 0.4535
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #5
+Chunk ID/Source: ModelT-51-60.txt
+Similarity Score: 0.4249
+Excerpt: Weak exhaust valve spring.  , 7. Too great clearance between valve , eter and push rod.  | 8. Too close gap between spark plug  ‘At High Speeds. 1. ‘Commutator contact imperfect. 3. Too much gap in spark plug. 4, Imperfect gas mixture,  ENGINE STOPS SUDDENLY ~, |  1. Gasoline tank empty... Water in...
+------------------------------------------------------------
+
+================================================================================
+PHRASING: What is the proper spacing between the spark plug electrodes in a Model T Ford?
+================================================================================
+Rank #1
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.5476
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #2
+Chunk ID/Source: ModelT-21-30.txt
+Similarity Score: 0.5476
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #3
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.5086
+Excerpt: re should be exercised not to scrape off the glazed surface of the porcelain, | otlierwise it will be apt to carbonize quickly. The porcelain and other parts should finally be washed in gasoline and wiped dry with a cloth. oe  ~ . _—_    THE FORD ENGINE is  In assembling the plug care should be take...
+------------------------------------------------------------
+Rank #4
+Chunk ID/Source: ModelT-11-20.txt
+Similarity Score: 0.5086
+Excerpt: re should be exercised not to scrape off the glazed surface of the porcelain, | otlierwise it will be apt to carbonize quickly. The porcelain and other parts should finally be washed in gasoline and wiped dry with a cloth. oe  ~ . _—_    THE FORD ENGINE is  In assembling the plug care should be take...
+------------------------------------------------------------
+Rank #5
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.4718
+Excerpt: o. : cause a vigorous kick back.  {284  ety Ci   26 THE FORD MANUAL  Does Coil Adjustment. oa a affect starting? Answer No, 58  Yes. When the vibrators are not properly adjusted more current is required to make and break the contact between the points, and, as a result, at cranking speeds you would...
+------------------------------------------------------------
+
+================================================================================
+PHRASING: What gap setting should be used when installing or adjusting spark plugs on a Model T Ford?
+================================================================================
+Rank #1
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.5531
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #2
+Chunk ID/Source: ModelT-21-30.txt
+Similarity Score: 0.5531
+Excerpt: placed if they peréist in not working properly. There is nothing to be gained by experimenting with different makes of plugs.. The make of plugs with which Ford engines are.equipped when they leave the factory are best adapted to the require- ments of our motor, notwithstanding the opinion of variou...
+------------------------------------------------------------
+Rank #3
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.5229
+Excerpt: o. : cause a vigorous kick back.  {284  ety Ci   26 THE FORD MANUAL  Does Coil Adjustment. oa a affect starting? Answer No, 58  Yes. When the vibrators are not properly adjusted more current is required to make and break the contact between the points, and, as a result, at cranking speeds you would...
+------------------------------------------------------------
+Rank #4
+Chunk ID/Source: ModelT-21-30.txt
+Similarity Score: 0.5229
+Excerpt: o. : cause a vigorous kick back.  {284  ety Ci   26 THE FORD MANUAL  Does Coil Adjustment. oa a affect starting? Answer No, 58  Yes. When the vibrators are not properly adjusted more current is required to make and break the contact between the points, and, as a result, at cranking speeds you would...
+------------------------------------------------------------
+Rank #5
+Chunk ID/Source: Ford-Model-T-Man-1919.txt
+Similarity Score: 0.4978
+Excerpt: th notch, with the spark retarded fo-ahout the fourth notch. The flow of gasoline should now be cut off by acrewing the needle  valve down to the right until the engine begins to misfire, then gradually. inere the gasoline feed by opening the needle valve until the motor pickup and féathes its highe...
+------------------------------------------------------------
+
+================================================================================
+PAIRWISE JACCARD OVERLAP (Top-K Sets)
+================================================================================
+                                                    What is the specified spark plug gap for a Model T Ford engine?  \
+What is the specified spark plug gap for a Mode...                                              1.000                 
+How wide should the spark plug gap be on a Mode...                                              0.500                 
+What spark plug electrode gap measurement is re...                                              1.000                 
+Model T spark plug gap specification                                                            0.500                 
+What is the proper spacing between the spark pl...                                              1.000                 
+What gap setting should be used when installing...                                              0.667                 
+
+                                                    How wide should the spark plug gap be on a Model T?  \
+What is the specified spark plug gap for a Mode...                                              0.500     
+How wide should the spark plug gap be on a Mode...                                              1.000     
+What spark plug electrode gap measurement is re...                                              0.500     
+Model T spark plug gap specification                                                            1.000     
+What is the proper spacing between the spark pl...                                              0.500     
+What gap setting should be used when installing...                                              0.667     
+
+                                                    What spark plug electrode gap measurement is recommended for the Model T Ford?  \
+What is the specified spark plug gap for a Mode...                                              1.000                                
+How wide should the spark plug gap be on a Mode...                                              0.500                                
+What spark plug electrode gap measurement is re...                                              1.000                                
+Model T spark plug gap specification                                                            0.500                                
+What is the proper spacing between the spark pl...                                              1.000                                
+What gap setting should be used when installing...                                              0.667                                
+
+                                                    Model T spark plug gap specification  \
+What is the specified spark plug gap for a Mode...                                 0.500   
+How wide should the spark plug gap be on a Mode...                                 1.000   
+What spark plug electrode gap measurement is re...                                 0.500   
+Model T spark plug gap specification                                               1.000   
+What is the proper spacing between the spark pl...                                 0.500   
+What gap setting should be used when installing...                                 0.667   
+
+                                                    What is the proper spacing between the spark plug electrodes in a Model T Ford?  \
+What is the specified spark plug gap for a Mode...                                              1.000                                 
+How wide should the spark plug gap be on a Mode...                                              0.500                                 
+What spark plug electrode gap measurement is re...                                              1.000                                 
+Model T spark plug gap specification                                                            0.500                                 
+What is the proper spacing between the spark pl...                                              1.000                                 
+What gap setting should be used when installing...                                              0.667                                 
+
+                                                    What gap setting should be used when installing or adjusting spark plugs on a Model T Ford?  
+What is the specified spark plug gap for a Mode...                                              0.667                                            
+How wide should the spark plug gap be on a Mode...                                              0.667                                            
+What spark plug electrode gap measurement is re...                                              0.667                                            
+Model T spark plug gap specification                                                            0.667                                            
+What is the proper spacing between the spark pl...                                              0.667                                            
+What gap setting should be used when installing...                                              1.000                                            

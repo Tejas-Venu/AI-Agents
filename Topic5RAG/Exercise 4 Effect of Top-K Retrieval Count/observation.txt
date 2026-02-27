@@ -1,0 +1,8 @@
+At what point does adding more context stop helping?
+Adding more context stops helping once the retrieved passages no longer contain new, relevant information for answering the question. In the examples above, performance improves from very low k (e.g., TOP_K=1) to moderate k (around 5–10), where the correct details begin to appear. Beyond that point (e.g., TOP_K=20), additional context mostly repeats or dilutes useful information rather than improving accuracy.
+
+When does too much context hurt (irrelevant information, confusion)?
+Too much context hurts when irrelevant passages are included, causing the model to latch onto incorrect details or mix unrelated sections (such as rear axle oil being mistaken for engine oil). Larger k values introduced confusion, incorrect numbers (e.g., spark plug gap misreadings), and blended instructions from different sections. This demonstrates that excessive or noisy context can degrade answer quality by overwhelming the model with competing signals.
+
+How does k interact with chunk size?
+k and chunk size are tightly coupled: smaller chunks often require a higher k to capture enough relevant information, while larger chunks may need a smaller k because each chunk already contains more context. If chunks are too large and k is high, the model receives excessive and partially irrelevant information, increasing confusion. Effective RAG performance requires balancing chunk size and k so that the model receives sufficient but focused context.

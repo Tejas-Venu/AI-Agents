@@ -1,0 +1,11 @@
+Does retrieving more chunks improve synthesis?
+Retrieving more chunks increases the amount of information available and leads to longer, more comprehensive answers. However, in your results it did not improve measurable groundedness and sometimes introduced extra or loosely supported details.
+
+Can the model successfully combine information from multiple chunks?
+Yes, the model is able to merge information from different retrieved chunks into a single synthesized response. However, it often paraphrases heavily and may blend details in ways that reduce traceable grounding.
+
+Does it miss information that wasn't retrieved?
+Yes, the model generally cannot include information that was not retrieved in the top-k results. Retrieval acts as a bottleneck, so missing chunks directly lead to missing content in the answer.
+
+Does contradictory information in different chunks cause problems?
+Yes, contradictory or slightly different instructions across chunks can lead to vague, blended, or inconsistent answers. The model typically does not explicitly resolve contradictions unless prompted to compare or cite sources carefully.
