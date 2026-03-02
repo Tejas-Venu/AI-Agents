@@ -6,6 +6,7 @@ This module explores how AI agents use tools, compares **ToolNode vs ReAct agent
 
 ## Table of Contents
 
+- [Project Directory](#project-directory)
 - [ToolNode vs ReAct Agent](#toolnode-vs-react-agent)
   - [Python Features for Parallel Dispatch](#what-features-of-python-does-toolnode-use-to-dispatch-tools-in-parallel--what-kinds-of-tools-would-most-benefit-from-parallel-dispatch)
   - [Handling Special Inputs ("verbose", "exit")](#how-do-the-two-programs-handle-special-inputs-such-as-verbose-and-exit)
@@ -22,6 +23,33 @@ This module explores how AI agents use tools, compares **ToolNode vs ReAct agent
     - [`analyze_video(url)`](#analyze_videourl)
 
 - [Key Takeaways](#key-takeaways)
+
+---
+
+# Project Directory
+
+```
+Topic4Exploring/
+├── README.md
+│
+├── Task 1 - ToolNode vs ReAct Agent Graphs/
+│   ├── langchain_conversation_graph.png
+│   ├── langchain_manual_tool_graph.png
+│   └── langchain_react_agent.png
+│
+├── Task 1 - ToolNode vs ReAct Agent Code/
+│   └── Task 1.ipynb
+│
+├── Task 1 - ToolNode vs ReAct Agent Output/
+│   ├── Task 1_ReAct_agent_output.txt
+│   └── Task 1_tool_node_output.txt
+│
+├── Task 3 - YouTube Transcript Analyzer Code/
+│   └── Youtube_transcript.ipynb
+│
+└── Task 3 - YouTube Transcript Analyzer Output/
+    └── Youtube_transcript_output.txt
+```
 
 ---
 
