@@ -1,5 +1,4 @@
-# Vision-Language Agents with LangGraph & LLaVA
-
+# Running an LLM 
 The goal of this project was to evaluate multiple small and medium-sized large language models on selected MMLU subjects, compare inference performance under different hardware and quantization configurations, analyze model mistake patterns, and build a custom chat agent from scratch.
 
 ---
@@ -182,12 +181,11 @@ The following graphs were generated:
 The graphs show a clear trend that performance increases with model size.
 
 
-## Analysis of Model Mistakes
+## Can you see any patterns to the mistakes each model makes or do they appear random?  Do the all the models make mistakes on the same questions?  
 
 The mistakes were not random.
 
 The following patterns were observed:
-
 1. All models struggled with formal logic and symbolic reasoning.
 2. Physics-based astronomy questions caused confusion.
 3. Business and marketing subjects had consistently higher accuracy.
