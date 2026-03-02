@@ -1,10 +1,21 @@
 # Topic 3 - Agent Tool Use
 
+This project implements and evaluates:
+
+- Llama 3.2-1B model evaluations on different MMLU topics  
+- Sequential versus parallel execution timing  
+- Ollama-based local model serving  
+- OpenAI GPT-4o Mini API usage  
+- Manual tool handling with a custom calculator  
+- LangGraph-based multi-tool agent orchestration  
+- Persistent conversation with checkpointing and recovery  
+- Identification of parallelization opportunities  
+
 ---
 
 ## Table of Contents
 
-1. [Overview](#overview)  
+1. - [Project Directory](#project-directory)  
 2. [Task 1 — Sequential vs Parallel Execution (With and Without Ollama)](#task-1--sequential-vs-parallel-execution-with-and-without-ollama)  
    - [Without Ollama — Sequential Execution](#without-ollama--sequential-execution)  
    - [Without Ollama — Parallel Execution](#without-ollama--parallel-execution)  
@@ -25,18 +36,41 @@
 
 ---
 
-## Overview
+# Project Directory
 
-This project implements and evaluates:
-
-- Llama 3.2-1B model evaluations on different MMLU topics  
-- Sequential versus parallel execution timing  
-- Ollama-based local model serving  
-- OpenAI GPT-4o Mini API usage  
-- Manual tool handling with a custom calculator  
-- LangGraph-based multi-tool agent orchestration  
-- Persistent conversation with checkpointing and recovery  
-- Identification of parallelization opportunities  
+```
+Topic3Tools/
+├── README.md
+│
+├── code/
+│   ├── Task 1 - Sequential vs Parallel Execution.ipynb
+│   ├── Task 2 - OpenAI Setup and API Key Handling.ipynb
+│   ├── Task 3 - Manual Tool Handling & Custom Tools.ipynb
+│   ├── Task 4 - LangGraph Tool Handling.ipynb
+│   └── Task 5 - Persistent LangGraph Conversation.ipynb
+│
+├── output/
+│   ├── task1/
+│   │   ├── astronomy_results_*.json
+│   │   ├── astronomy_ollama_results_*.json
+│   │   ├── business_ethics_results_*.json
+│   │   ├── business_ethics_ollama_results_*.json
+│   │   ├── with_ollama_parallel.txt
+│   │   ├── with_ollama_sequential.txt
+│   │   ├── without_ollama_parallel.txt
+│   │   └── without_ollama_sequential.txt
+│   │
+│   ├── task3/
+│   │   └── manual_tool_handling_output.txt
+│   │
+│   ├── task4/
+│   │   └── langgraph_tool_handling_output.txt
+│   │
+│   └── task5/
+│       ├── checkpoints.db
+│       ├── lg_graph.png
+│       └── persistent_langgraph_conversation_output.txt
+```
 
 ---
 
