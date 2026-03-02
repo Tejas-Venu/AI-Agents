@@ -20,7 +20,6 @@ This module explores how AI agents use tools, compares **ToolNode vs ReAct agent
     - [`summarize_transcript(transcript)`](#summarize_transcripttranscript)
     - [`extract_key_concepts(transcript)`](#extract_key_conceptstranscript)
     - [`generate_quiz(transcript)`](#generate_quiztranscript)
-    - [`analyze_video(url)`](#analyze_videourl)
 
 - [Key Takeaways](#key-takeaways)
 
