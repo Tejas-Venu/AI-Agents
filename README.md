@@ -4,6 +4,12 @@ This repository contains multiple projects exploring agent orchestration, tool u
 
 ---
 
+## Topic 1 — Running an LLM
+
+Implements benchmarking of multiple small and medium-sized language models using the MMLU dataset, comparing CPU vs GPU performance and quantized vs non-quantized inference. The project includes timing analysis (real, CPU, and GPU time), error pattern evaluation across subjects, and visualization of model accuracy trends. It also develops a custom chat agent from scratch using Llama 3.2-1B, introduces context window management strategies to prevent overflow, and evaluates multi-turn coherence with and without conversation history.All source code, execution outputs, and analytical discussion for the Agent Framework Orchestration assignment are located in the **Running_an_LLM** folder, with full details provided in its dedicated README.
+
+---
+
 ## Topic 2 — Agent Framework Orchestration
 
 Builds a LangGraph-based multi-agent conversational system with Llama and Qwen, demonstrating conditional routing, parallel execution, shared chat history, model switching, and crash-safe checkpoint recovery. All source code, execution outputs, and analytical discussion for the Agent Framework Orchestration assignment are located in the **Topic2Frameworks** folder, with full details provided in its dedicated README.
