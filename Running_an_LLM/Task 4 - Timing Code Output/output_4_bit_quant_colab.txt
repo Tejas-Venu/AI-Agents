@@ -1,0 +1,93 @@
+
+======================================================================
+Llama 3.2-1B MMLU Evaluation (Quantized)
+======================================================================
+
+======================================================================
+Environment Check
+======================================================================
+âœ“ Running in Google Colab
+âœ“ Platform: Linux (x86_64)
+âš ï¸  No GPU detected - running on CPU
+âœ“ bitsandbytes installed - 4-bit quantization available
+âš ï¸  Could not check Hugging Face authentication
+
+======================================================================
+Configuration
+======================================================================
+Model: meta-llama/Llama-3.2-1B-Instruct
+Device: cpu
+Quantization: 4-bit
+Expected memory: ~1.5 GB
+Number of subjects: 2
+======================================================================
+
+
+Loading model meta-llama/Llama-3.2-1B-Instruct...
+Device: cpu
+âœ“ Tokenizer loaded
+Using 4-bit quantization (NF4 + double quant)
+Memory usage: ~1.5 GB
+Loading model (this may take 2-3 minutes)...
+Loading weights: 100% 146/146 [00:00<00:00, 329.18it/s, Materializing param=model.norm.weight]
+âœ“ Model loaded successfully!
+  Model device: cuda:0
+  Model dtype: torch.bfloat16
+  GPU Memory: 1.03 GB allocated, 2.44 GB reserved
+  Quantization: 4-bit active
+
+======================================================================
+Starting evaluation on 2 subjects
+======================================================================
+
+
+Progress: 1/2 subjects
+
+======================================================================
+Evaluating subject: astronomy
+======================================================================
+Testing astronomy:   0% 0/152 [00:00<?, ?it/s]The following generation flags are not valid and may be ignored: ['top_p']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Testing astronomy: 100% 152/152 [00:05<00:00, 29.27it/s]
+âœ“ Result: 72/152 correct = 47.37%
+
+Progress: 2/2 subjects
+
+======================================================================
+Evaluating subject: business_ethics
+======================================================================
+Testing business_ethics: 100% 100/100 [00:02<00:00, 34.64it/s]
+âœ“ Result: 40/100 correct = 40.00%
+
+======================================================================
+EVALUATION SUMMARY
+======================================================================
+Model: meta-llama/Llama-3.2-1B-Instruct
+Quantization: 4-bit
+Total Subjects: 2
+Total Questions: 252
+Total Correct: 112
+Overall Accuracy: 44.44%
+Duration: 0.2 minutes
+======================================================================
+
+âœ“ Results saved to: llama_3.2_1b_mmlu_results_4bit_20260301_183730.json
+
+ðŸ“Š Top 5 Subjects:
+  1. astronomy: 47.37%
+  2. business_ethics: 40.00%
+
+ðŸ“‰ Bottom 5 Subjects:
+  1. astronomy: 47.37%
+  2. business_ethics: 40.00%
+
+======================================================================
+ðŸ’¾ To download results in Colab:
+======================================================================
+from google.colab import files
+files.download('llama_3.2_1b_mmlu_results_4bit_20260301_183730.json')
+
+âœ… Evaluation complete!
+
+real	0m21.355s
+user	0m21.925s
+sys	0m1.771s

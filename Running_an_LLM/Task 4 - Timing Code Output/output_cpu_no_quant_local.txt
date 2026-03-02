@@ -1,0 +1,79 @@
+======================================================================
+Llama 3.2-1B MMLU Evaluation (Quantized)
+======================================================================
+
+======================================================================
+Environment Check
+======================================================================
+âœ“ Running locally (not in Colab)
+âœ“ Platform: Windows (AMD64)
+âš ï¸  No GPU detected - running on CPU
+âœ“ Quantization disabled - loading full precision model
+âš ï¸  Could not check Hugging Face authentication
+
+======================================================================
+Configuration
+======================================================================
+Model: meta-llama/Llama-3.2-1B-Instruct
+Device: cpu
+Quantization: None (full precision)
+Expected memory: ~5 GB (FP32)
+Number of subjects: 2
+======================================================================
+
+
+Loading model meta-llama/Llama-3.2-1B-Instruct...
+Device: cpu
+âœ“ Tokenizer loaded
+Loading model (this may take 2-3 minutes)...
+Loading weights: 100%|████████████████████████████████████████████████████████████████████| 146/146 [00:02<00:00, 65.01it/s, Materializing param=model.norm.weight]
+âœ“ Model loaded successfully!
+  Model device: cpu
+  Model dtype: torch.float32
+
+======================================================================
+Starting evaluation on 2 subjects
+======================================================================
+
+
+Progress: 1/2 subjects
+
+======================================================================
+Evaluating subject: astronomy
+======================================================================
+Testing astronomy:   0%|                                                                                                                   | 0/152 [00:00<?, ?it/s]The following generation flags are not valid and may be ignored: ['top_p']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Testing astronomy: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████| 152/152 [14:49<00:00,  5.85s/it]
+âœ“ Result: 75/152 correct = 49.34%
+
+Progress: 2/2 subjects
+
+======================================================================
+Evaluating subject: business_ethics
+======================================================================
+Testing business_ethics: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [17:03<00:00, 10.23s/it]
+âœ“ Result: 45/100 correct = 45.00%
+
+======================================================================
+EVALUATION SUMMARY
+======================================================================
+Model: meta-llama/Llama-3.2-1B-Instruct
+None (full precision)
+Total Subjects: 2
+Total Questions: 252
+Total Correct: 120
+Overall Accuracy: 47.62%
+Duration: 32.0 minutes
+======================================================================
+
+âœ“ Results saved to: llama_3.2_1b_mmlu_results_full_20260223_143958.json
+
+ðŸ“Š Top 5 Subjects:
+  1. astronomy: 49.34%
+  2. business_ethics: 45.00%
+
+ðŸ“‰ Bottom 5 Subjects:
+  1. astronomy: 49.34%
+  2. business_ethics: 45.00%
+
+âœ… Evaluation complete!
+Total time: 33.64 minutes

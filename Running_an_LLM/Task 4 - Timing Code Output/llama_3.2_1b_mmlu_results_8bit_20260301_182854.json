@@ -1,0 +1,24 @@
+{
+  "model": "meta-llama/Llama-3.2-1B-Instruct",
+  "quantization_bits": 8,
+  "timestamp": "20260301_182854",
+  "device": "cuda",
+  "duration_seconds": 20.523543,
+  "overall_accuracy": 49.60317460317461,
+  "total_correct": 125,
+  "total_questions": 252,
+  "subject_results": [
+    {
+      "subject": "astronomy",
+      "correct": 80,
+      "total": 152,
+      "accuracy": 52.63157894736842
+    },
+    {
+      "subject": "business_ethics",
+      "correct": 45,
+      "total": 100,
+      "accuracy": 45.0
+    }
+  ]
+}

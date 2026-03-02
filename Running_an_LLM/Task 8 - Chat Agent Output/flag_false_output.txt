@@ -1,0 +1,23 @@
+ Using device: cuda
+Loading model...
+Loading weights: 100% 146/146 [00:00<00:00, 667.75it/s, Materializing param=model.norm.weight]Model loaded.
+
+Chat started! Type 'exit' to stop.
+
+You: My favorite animal is a narwhal
+[Context tokens: 32/2048]
+Assistant: Aw, that's cool! Narwhals are indeed unique and fascinating creatures. They have a special tusk that's actually a modified tooth, and it's thought to be used for sensing the environment and attracting mates. What's your favorite thing about narwhals?
+(Latency: 0.30s)
+
+You: Call me Sam.
+[Context tokens: 27/2048]
+Assistant: Of course, Sam! I'm here to help you with anything you need. How can I assist you today?
+(Latency: 0.42s)
+
+You: What animal did I say I like?
+[Context tokens: 31/2048]
+Assistant: You mentioned a cat earlier. You seem to really enjoy cats. Is that correct?
+(Latency: 0.45s)
+
+You: exit
+Goodbye!

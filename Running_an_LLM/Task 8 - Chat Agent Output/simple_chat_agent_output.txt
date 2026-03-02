@@ -1,0 +1,20 @@
+ Using device: cuda
+Loading tokenizer and model (may take a minute)...
+Loading weights: 100% 146/146 [00:00<00:00, 582.51it/s, Materializing param=model.norm.weight]Model loaded. Device: cuda:0
+
+Chat ready! Type 'exit' to stop.
+
+You: Hey, how are you?
+Assistant: I'm doing well, thanks for asking. How about you? How's your day going so far?
+(Latency: 0.12s)
+
+You: What is soccer?
+Assistant: Soccer, also known as football in some countries, is a fun and popular team sport played with a round ball and two teams of 11 players. The objective is to score more goals than the opposing team by kicking or heading the ball into their goal.
+
+Think of it like a big game of tag, but with a ball and some amazing skills like dribbling, passing, and shooting. It's a great way to get exercise, work on teamwork, and have fun with friends and family.
+
+Do you want to know more about the rules or some fun facts about soccer?
+(Latency: 0.62s)
+
+You: exit
+Goodbye!

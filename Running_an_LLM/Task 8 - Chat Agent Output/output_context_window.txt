@@ -1,0 +1,66 @@
+ Device: cuda
+Loading tokenizer & model (may take a minute)...
+Loading weights: 100% 146/146 [00:00<00:00, 656.96it/s, Materializing param=model.norm.weight]Model loaded on cuda:0
+
+Chat ready — type 'exit' to stop.
+
+You: Hey, how are you?
+[Context tokens] 29/2048 (1.42%)
+Assistant: I'm doing well, thanks for asking. How can I assist you today?
+(latency: 0.09s)
+
+You: What is cricket?
+[Context tokens] 57/2048 (2.78%)
+Assistant: Cricket is a popular team sport played with a bat and a ball. It's a bit like a combination of baseball and association football (soccer). The objective is to score runs by hitting the ball with a bat and running between two sets of three stumps (called wickets) while the opposing team tries to stop them by getting the batsmen out.
+
+The game is played with 11 players on each team, and it's usually played on a rectangular field with a flat surface, such as grass or turf. The team with the most runs at the end of the game wins.
+
+Cricket is played all over the world, with different versions and rules, but the basic concept remains the same. It's a fun and exciting game that requires skill, strategy, and teamwork.
+
+Are you interested in watching or playing cricket?
+(latency: 0.88s)
+
+You: I am interested in watching cricket?
+[Context tokens] 238/2048 (11.62%)
+Assistant: Watching cricket can be a fantastic way to enjoy the game. Here are a few tips to get you started:
+
+1. **Choose a tournament**: Cricket is played in various tournaments around the world, such as the ICC World Cup, the Indian Premier League (IPL), and the English Premier League (EPL). These tournaments often have different formats, like T20 (20 overs) or Test cricket.
+2. **Watch on TV or online**: You can catch live matches on TV or streaming services like Sky Sports in the UK, Fox Sports in Australia, or ESPN in the US.
+3. **Follow a favorite team**: If you have a favorite team, you can follow them on social media or watch their matches on TV.
+4. **Look for highlights**: After the match, look for highlight reels or analysis videos to learn more about the game.
+
+Some popular cricket leagues and tournaments include:
+
+* Indian Premier League (IPL)
+* English Premier League (EPL)
+* Big Bash League (BBL)
+* Caribbean Premier League (CPL)
+* Women's Cricket World Cup
+
+Which type of cricket do you want to watch? T20, Test, or something else?
+(latency: 1.29s)
+
+You: Test
+[Context tokens] 486/2048 (23.73%)
+Assistant: Watching Test cricket can be a thrilling experience. Here's a brief overview:
+
+**What is Test cricket?**
+
+Test cricket is a format of the game where two teams play a series of matches, each lasting a week or more, with each team getting a chance to bat and bowl. The game is played on a rectangular field with two sets of three stumps (wickets) at each end.
+
+**Key aspects of Test cricket:**
+
+* **Long format**: Tests are divided into days, with each day lasting around 3-4 hours.
+* **Multiple innings**: Each team gets two innings to bat, with the opposing team trying to bowl them out.
+* **Bowling and batting**: The bowling team tries to dismiss the batsmen, while the batting team tries to score runs.
+* **Fielding**: The fielding team tries to catch the batsmen out, either by getting them out or by running out of the field.
+
+**Types of Test matches:**
+
+* **First innings**: The batting team starts with a new innings, trying to score as many runs as possible.
+* **Second innings**: The batting team tries to defend their score and get as many runs as possible.
+* **Match tie**: If the score is tied at the end of the second
+(latency: 1.37s)
+
+You: quit
+Goodbye!

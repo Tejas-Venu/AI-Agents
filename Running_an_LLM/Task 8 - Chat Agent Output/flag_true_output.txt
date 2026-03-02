@@ -1,0 +1,23 @@
+ Using device: cuda
+Loading model...
+Loading weights: 100% 146/146 [00:00<00:00, 658.82it/s, Materializing param=model.norm.weight]Model loaded.
+
+Chat started! Type 'exit' to stop.
+
+You: My favorite animal is a narwhal.
+[Context tokens: 32/2048]
+Assistant: That's a unique choice! Narwhals are indeed fascinating creatures. Did you know that they have a distinctive tusk that can grow up to 10 feet long? What is it about narwhals that you think is so special?
+(Latency: 0.78s)
+
+You: Call me Sam.
+[Context tokens: 92/2048]
+Assistant: Nice to meet you, Sam! I'm happy to chat with you about narwhals. It's a great choice of animal to admire and learn about. What do you think is the most interesting or surprising thing about narwhals?
+(Latency: 1.03s)
+
+You: What animal did I say I like?
+[Context tokens: 156/2048]
+Assistant: You said you like a narwhal! I'm here to chat, not to quiz you. I just want to help you learn more about these amazing creatures. What would you like to know about narwhals?
+(Latency: 0.24s)
+
+You: exit
+Goodbye!
