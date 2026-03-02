@@ -180,18 +180,8 @@ This project implements an AI pipeline that:
 
 
 ### Full pipeline:
-    ```
-User Inputs YouTube URL
-        ↓
-Extract Video ID
-        ↓
-Fetch Transcript
-        ↓
-Summarize Transcript
-        ↓
-Extract Key Concepts
-        ↓
-Generate Quiz Questions
+```
+User Inputs YouTube URL -> Extract Video ID -> Fetch Transcript -> Summarize Transcript -> Extract Key Concepts -> Generate Quiz Questions
 ```
 
 
