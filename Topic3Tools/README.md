@@ -15,7 +15,7 @@ This project implements and evaluates:
 
 ## Table of Contents
 
-1. - [Project Directory](#project-directory)  
+1. [Project Directory](#project-directory)  
 2. [Task 1 — Sequential vs Parallel Execution (With and Without Ollama)](#task-1--sequential-vs-parallel-execution-with-and-without-ollama)  
    - [Without Ollama — Sequential Execution](#without-ollama--sequential-execution)  
    - [Without Ollama — Parallel Execution](#without-ollama--parallel-execution)  
