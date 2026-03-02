@@ -1,6 +1,6 @@
 # CS 6501 Workshop on Building AI Agents — Overview
 
-This repository contains multiple projects exploring agent orchestration, tool use, retrieval-augmented generation (RAG) and vision-language systems using LangGraph, Hugging Face models, Ollama and OpenAI APIs.
+This repository contains multiple projects like running an llm, exploring agent orchestration, tool use, retrieval-augmented generation (RAG) and vision-language systems using LangGraph, Hugging Face models, Ollama and OpenAI APIs.
 
 ---
 
