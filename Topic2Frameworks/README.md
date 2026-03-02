@@ -15,6 +15,7 @@ It demonstrates:
 
 ## Table of Contents
 
+- [Project Directory](#project-directory)
 - [Task 1 : Running and Understanding `langgraph_simple_llama_agent.py`](#task-1--running-and-understanding-langgraph_simple_llama_agentpy)
   - [Architecture](#architecture)
   - [Verbose / Quiet Mode](#verbose--quiet-mode)
@@ -42,6 +43,41 @@ It demonstrates:
 - [Architectural Evolution](#-architectural-evolution)
 
 - [Conclusion](#-conclusion)
+
+---
+
+# Project Directory 
+
+```
+Topic2Frameworks/
+├── README.md
+│
+├── code/
+│   ├── Task 1 - Running and Understanding LangGraph.ipynb
+│   ├── Task 2 - Handling Empty Input.ipynb
+│   ├── Task 3 - Parallel Execution Llama + Qwen.ipynb
+│   ├── Task 4 - Conditional Model Switching.ipynb
+│   ├── Task 5 - Adding Chat History.ipynb
+│   ├── Task 6 - Multi-Agent Shared History.ipynb
+│   └── Task 7 - Checkpointing and Crash Recovery.ipynb
+│
+├── images/
+│   ├── lg_graph_1.png
+│   ├── lg_graph_2.png
+│   ├── lg_graph_3.png
+│   └── lg_graph_4.png
+│
+├── output/
+│   ├── task1_Running_and_Understanding_Code_output.txt
+│   ├── task2_Handling_Empty_output.txt
+│   ├── task3_Parallel_Execution_output.txt
+│   ├── task4_Conditional_Model_Switching_output.txt
+│   ├── task5_Adding_Chat_History_output.txt
+│   ├── task6_Multi_Agent_Shared_History_output.txt
+│   ├── task7_Checkpointing_and_Crash_Recovery_output.txt
+│   └── task7_lg_checkpoint.json
+```
+
 
 ---
 
