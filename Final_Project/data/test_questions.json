@@ -1,0 +1,402 @@
+[
+    {
+      "id": "Q001",
+      "question": "Why does increasing atmospheric CO2 lead to higher global temperatures?",
+      "category": "climate science",
+      "reasoning_type": "causal",
+      "difficulty": "easy",
+      "gold_explanation": "CO2 absorbs outgoing infrared radiation, trapping more heat in the atmosphere and strengthening the greenhouse effect."
+    },
+    {
+      "id": "Q002",
+      "question": "How do enzymes speed up chemical reactions?",
+      "category": "biochemistry",
+      "reasoning_type": "mechanism",
+      "difficulty": "easy",
+      "gold_explanation": "Enzymes lower activation energy by stabilizing the transition state and orienting substrates favorably."
+    },
+    {
+      "id": "Q003",
+      "question": "What would happen to Earth's tides if the Moon suddenly disappeared?",
+      "category": "physics",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "Tides would become much weaker because the Moon is the main driver of tidal forces; the Sun would still produce smaller tides."
+    },
+    {
+      "id": "Q004",
+      "question": "Why can a fever help the body fight some infections?",
+      "category": "physiology",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "A slightly higher body temperature can slow some pathogens and support immune responses."
+    },
+    {
+      "id": "Q005",
+      "question": "How does insulin lower blood glucose after a meal?",
+      "category": "medicine",
+      "reasoning_type": "mechanism",
+      "difficulty": "easy",
+      "gold_explanation": "Insulin promotes glucose uptake by cells and stimulates storage of glucose as glycogen and fat."
+    },
+    {
+      "id": "Q006",
+      "question": "What would happen if plants could not perform photosynthesis?",
+      "category": "biology",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "Plants would stop making sugars from sunlight, leading to widespread plant death and collapse of many food webs."
+    },
+    {
+      "id": "Q007",
+      "question": "Why does salt lower the freezing point of water?",
+      "category": "chemistry",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "Dissolved salt disrupts ice crystal formation and reduces the chemical potential of liquid water, so freezing requires a lower temperature."
+    },
+    {
+      "id": "Q008",
+      "question": "How do vaccines train the immune system to respond faster later?",
+      "category": "immunology",
+      "reasoning_type": "mechanism",
+      "difficulty": "easy",
+      "gold_explanation": "Vaccines expose the immune system to harmless antigens, creating memory B and T cells that respond rapidly on future exposure."
+    },
+    {
+      "id": "Q009",
+      "question": "What would happen to a metal spoon left in boiling water if the water were replaced with air at the same temperature?",
+      "category": "physics",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "The spoon would heat much more slowly in air because air transfers heat far less efficiently than water."
+    },
+    {
+      "id": "Q010",
+      "question": "Why do greenhouse gases warm the planet more than nitrogen and oxygen do?",
+      "category": "climate science",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "Greenhouse gases absorb infrared radiation, while nitrogen and oxygen are mostly transparent to it."
+    },
+    {
+      "id": "Q011",
+      "question": "How does the sodium-potassium pump help neurons maintain electrical activity?",
+      "category": "neuroscience",
+      "reasoning_type": "mechanism",
+      "difficulty": "medium",
+      "gold_explanation": "It uses ATP to move sodium out and potassium in, maintaining ion gradients needed for resting membrane potential and firing."
+    },
+    {
+      "id": "Q012",
+      "question": "What would happen to human blood oxygen levels if hemoglobin could not bind oxygen?",
+      "category": "physiology",
+      "reasoning_type": "counterfactual",
+      "difficulty": "hard",
+      "gold_explanation": "Blood would carry far less oxygen, causing severe tissue hypoxia and likely death without emergency support."
+    },
+    {
+      "id": "Q013",
+      "question": "Why does increasing surface area make a reaction with a solid faster?",
+      "category": "chemistry",
+      "reasoning_type": "causal",
+      "difficulty": "easy",
+      "gold_explanation": "More surface area exposes more particles to reactants, increasing collision frequency."
+    },
+    {
+      "id": "Q014",
+      "question": "How do kidneys concentrate urine when the body is dehydrated?",
+      "category": "physiology",
+      "reasoning_type": "mechanism",
+      "difficulty": "hard",
+      "gold_explanation": "The loop of Henle creates an osmotic gradient, and ADH increases water reabsorption in the collecting ducts."
+    },
+    {
+      "id": "Q015",
+      "question": "What would happen if Earth rotated much faster than it does now?",
+      "category": "earth science",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "Days would be shorter, the Coriolis effect would strengthen, and weather patterns would likely become more extreme."
+    },
+    {
+      "id": "Q016",
+      "question": "Why does exercise usually increase breathing rate?",
+      "category": "physiology",
+      "reasoning_type": "causal",
+      "difficulty": "easy",
+      "gold_explanation": "Working muscles use more oxygen and produce more carbon dioxide, so breathing increases to meet demand and remove waste gas."
+    },
+    {
+      "id": "Q017",
+      "question": "How does natural selection change the traits of a population over time?",
+      "category": "evolutionary biology",
+      "reasoning_type": "mechanism",
+      "difficulty": "medium",
+      "gold_explanation": "Individuals with heritable traits that improve survival or reproduction leave more offspring, making those traits more common."
+    },
+    {
+      "id": "Q018",
+      "question": "What would happen if the ozone layer were greatly depleted?",
+      "category": "atmospheric science",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "More harmful ultraviolet radiation would reach the surface, increasing skin cancer risk and damaging ecosystems."
+    },
+    {
+      "id": "Q019",
+      "question": "Why do metals conduct electricity better than most plastics?",
+      "category": "physics",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "Metals have mobile electrons that can move easily through the lattice, while plastics usually do not."
+    },
+    {
+      "id": "Q020",
+      "question": "How does a neuron generate an action potential?",
+      "category": "neuroscience",
+      "reasoning_type": "mechanism",
+      "difficulty": "medium",
+      "gold_explanation": "Voltage-gated sodium channels open first, depolarizing the membrane, followed by potassium channel opening to repolarize it."
+    },
+    {
+      "id": "Q021",
+      "question": "What would happen to a predator population if all prey species suddenly vanished?",
+      "category": "ecology",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "The predator population would decline sharply from starvation and reduced reproduction."
+    },
+    {
+      "id": "Q022",
+      "question": "Why does adding fertilizer sometimes increase algal blooms in lakes?",
+      "category": "ecology",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "Fertilizer adds nutrients like nitrogen and phosphorus, which can fuel rapid algal growth."
+    },
+    {
+      "id": "Q023",
+      "question": "How do plate tectonics contribute to mountain formation?",
+      "category": "geology",
+      "reasoning_type": "mechanism",
+      "difficulty": "medium",
+      "gold_explanation": "When tectonic plates collide, crust is compressed and uplifted, forming mountain ranges."
+    },
+    {
+      "id": "Q024",
+      "question": "What would happen if a human had no red blood cells?",
+      "category": "medicine",
+      "reasoning_type": "counterfactual",
+      "difficulty": "hard",
+      "gold_explanation": "Oxygen transport would collapse, causing severe hypoxia and death without immediate intervention."
+    },
+    {
+      "id": "Q025",
+      "question": "Why does friction usually slow moving objects down?",
+      "category": "physics",
+      "reasoning_type": "causal",
+      "difficulty": "easy",
+      "gold_explanation": "Friction converts kinetic energy into heat and opposes relative motion between surfaces."
+    },
+    {
+      "id": "Q026",
+      "question": "How does DNA replication achieve high fidelity?",
+      "category": "molecular biology",
+      "reasoning_type": "mechanism",
+      "difficulty": "hard",
+      "gold_explanation": "DNA polymerases use complementary base pairing, proofreading, and repair systems to reduce copying errors."
+    },
+    {
+      "id": "Q027",
+      "question": "What would happen if water expanded when it froze instead of becoming less dense?",
+      "category": "earth science",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "Ice would sink instead of float, changing lake turnover, reducing insulation, and altering aquatic ecosystems."
+    },
+    {
+      "id": "Q028",
+      "question": "Why do ocean currents affect climate along coastlines?",
+      "category": "climate science",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "Currents transport heat, so warm or cold water changes air temperature and humidity near coasts."
+    },
+    {
+      "id": "Q029",
+      "question": "How does transpiration help move water from roots to leaves in plants?",
+      "category": "botany",
+      "reasoning_type": "mechanism",
+      "difficulty": "medium",
+      "gold_explanation": "Water evaporating from leaves creates negative pressure that pulls water upward through xylem."
+    },
+    {
+      "id": "Q030",
+      "question": "What would happen if Earth had no atmosphere?",
+      "category": "planetary science",
+      "reasoning_type": "counterfactual",
+      "difficulty": "hard",
+      "gold_explanation": "Surface temperatures would swing wildly, there would be no breathable air, and liquid water would be unstable at the surface."
+    },
+    {
+      "id": "Q031",
+      "question": "Why does increasing light intensity usually increase photosynthesis up to a point?",
+      "category": "plant biology",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "More light provides more energy for the light reactions, increasing sugar production until another factor becomes limiting."
+    },
+    {
+      "id": "Q032",
+      "question": "How does a buffer solution resist changes in pH?",
+      "category": "chemistry",
+      "reasoning_type": "mechanism",
+      "difficulty": "medium",
+      "gold_explanation": "A buffer contains a weak acid and its conjugate base, which can neutralize added acid or base."
+    },
+    {
+      "id": "Q033",
+      "question": "What would happen if a population lost all genetic variation?",
+      "category": "evolutionary biology",
+      "reasoning_type": "counterfactual",
+      "difficulty": "hard",
+      "gold_explanation": "The population would be less able to adapt to environmental change and more vulnerable to disease or extinction."
+    },
+    {
+      "id": "Q034",
+      "question": "Why do satellites in low Earth orbit eventually fall back to Earth without reboosts?",
+      "category": "physics",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "Residual atmospheric drag removes orbital energy over time, causing gradual orbital decay."
+    },
+    {
+      "id": "Q035",
+      "question": "How does the immune system distinguish self from non-self in many cases?",
+      "category": "immunology",
+      "reasoning_type": "mechanism",
+      "difficulty": "hard",
+      "gold_explanation": "During development and through immune regulation, cells that strongly react to self are removed or suppressed, while foreign antigens trigger activation."
+    },
+    {
+      "id": "Q036",
+      "question": "What would happen if all decomposers disappeared from an ecosystem?",
+      "category": "ecology",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "Dead organic matter would accumulate and nutrient recycling would slow, harming plant growth and ecosystem stability."
+    },
+    {
+      "id": "Q037",
+      "question": "Why does higher altitude often cause lower boiling temperatures?",
+      "category": "physics",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "Lower atmospheric pressure means water needs less vapor pressure to boil, so it boils at a lower temperature."
+    },
+    {
+      "id": "Q038",
+      "question": "How does the xylem in plants transport water upward?",
+      "category": "botany",
+      "reasoning_type": "mechanism",
+      "difficulty": "medium",
+      "gold_explanation": "Cohesion between water molecules and transpiration pull create a continuous column of water moving up the xylem."
+    },
+    {
+      "id": "Q039",
+      "question": "What would happen if Earth stopped receiving energy from the Sun for a week?",
+      "category": "climate science",
+      "reasoning_type": "counterfactual",
+      "difficulty": "hard",
+      "gold_explanation": "Surface temperatures would rapidly drop, photosynthesis would stop, and weather systems would weaken dramatically."
+    },
+    {
+      "id": "Q040",
+      "question": "Why can smoking increase the risk of lung disease?",
+      "category": "medicine",
+      "reasoning_type": "causal",
+      "difficulty": "easy",
+      "gold_explanation": "Smoke damages airway tissue, increases inflammation, and exposes the lungs to carcinogens and toxins."
+    },
+    {
+      "id": "Q041",
+      "question": "How does osmosis move water across a semipermeable membrane?",
+      "category": "biology",
+      "reasoning_type": "mechanism",
+      "difficulty": "easy",
+      "gold_explanation": "Water moves from lower solute concentration to higher solute concentration to reduce the concentration difference."
+    },
+    {
+      "id": "Q042",
+      "question": "What would happen if the Earth's core were completely solid and no longer convected?",
+      "category": "geophysics",
+      "reasoning_type": "counterfactual",
+      "difficulty": "hard",
+      "gold_explanation": "The geodynamo would weaken or stop, greatly reducing Earth's magnetic field over time."
+    },
+    {
+      "id": "Q043",
+      "question": "Why does vigorous shaking sometimes speed up dissolution of a solid in a liquid?",
+      "category": "chemistry",
+      "reasoning_type": "causal",
+      "difficulty": "easy",
+      "gold_explanation": "Shaking brings fresh solvent into contact with the solid and helps remove dissolved material from its surface."
+    },
+    {
+      "id": "Q044",
+      "question": "How do neurotransmitters transmit signals between neurons?",
+      "category": "neuroscience",
+      "reasoning_type": "mechanism",
+      "difficulty": "medium",
+      "gold_explanation": "A presynaptic neuron releases neurotransmitters, which bind receptors on the postsynaptic cell and change its electrical state."
+    },
+    {
+      "id": "Q045",
+      "question": "What would happen if gravity on Earth were much weaker?",
+      "category": "physics",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "Objects would weigh less, the atmosphere would be less tightly held, and many biological and geological processes would change."
+    },
+    {
+      "id": "Q046",
+      "question": "Why do some antibiotics kill bacteria while others only stop their growth?",
+      "category": "medicine",
+      "reasoning_type": "causal",
+      "difficulty": "medium",
+      "gold_explanation": "Some antibiotics directly damage essential structures or processes, while others inhibit growth enough for the immune system to clear the infection."
+    },
+    {
+      "id": "Q047",
+      "question": "How does fermentation allow cells to make ATP without oxygen?",
+      "category": "cell biology",
+      "reasoning_type": "mechanism",
+      "difficulty": "medium",
+      "gold_explanation": "Fermentation regenerates NAD+, allowing glycolysis to continue producing ATP in the absence of oxygen."
+    },
+    {
+      "id": "Q048",
+      "question": "What would happen if bees disappeared from an ecosystem with many flowering crops?",
+      "category": "ecology",
+      "reasoning_type": "counterfactual",
+      "difficulty": "medium",
+      "gold_explanation": "Pollination would decline, reducing fruit and seed production for many plants and crops."
+    },
+    {
+      "id": "Q049",
+      "question": "Why does adding acid to water lower pH?",
+      "category": "chemistry",
+      "reasoning_type": "causal",
+      "difficulty": "easy",
+      "gold_explanation": "Acids increase the concentration of hydrogen ions in solution, which lowers pH."
+    },
+    {
+      "id": "Q050",
+      "question": "How does the CRISPR-Cas system cut DNA at a targeted sequence?",
+      "category": "molecular biology",
+      "reasoning_type": "mechanism",
+      "difficulty": "hard",
+      "gold_explanation": "A guide RNA directs the Cas enzyme to a matching DNA sequence, where Cas makes a double-strand break."
+    }
+]
