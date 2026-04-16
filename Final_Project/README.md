@@ -1,6 +1,6 @@
 # Cognitive Court
 
-> Demo: **Paste your GitHub demo link here** — for example, your deployed Streamlit app, GitHub Pages link, or repository demo URL.
+> Demo Link: **https://drive.google.com/file/d/1tAdG63YINY7FY0gJ3fL9l4hSO7zJdZ__/view** 
 
 Cognitive Court is a scientific reasoning QA system that compares answers from multiple LLMs, runs a judge model, optionally checks claims with a verifier, and highlights the best response. It includes both a CLI workflow and a Streamlit UI for interactive testing.
 
@@ -42,8 +42,8 @@ Cognitive Court is a scientific reasoning QA system that compares answers from m
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/cognitive-court.git
-cd cognitive-court
+git clone https://github.com/Tejas-Venu/AI-Agents.git
+cd AI-Agents/Final_Project
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -160,7 +160,7 @@ Runs are written as JSONL, one record per question. Each record can include:
 
 ## Notes
 
-- The judge prompt emphasizes reasoning quality, mechanism coverage, coherence, and depth.
+- The judge prompt emphasizes reasoning quality, mechanism coverage, coherence and depth.
 - The verifier scores claims for support, unsupported claims, and uncertainty.
 - The Streamlit app highlights the overall best answer across modes.
 - `data/test_questions.json` contains 50 example scientific questions across physics, biology, chemistry, medicine, climate science, and more.
