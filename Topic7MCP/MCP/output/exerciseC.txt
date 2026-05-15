@@ -1,0 +1,159 @@
+Starting Asta-Powered Research Chatbot (fixed)...
+[INFO] Loaded 8 functions from MCP
+[INFO] 8 function specs available. Sample:
+ - get_paper | 
+Get details about a paper by its id.
+
+Args:
+    paper_id: The id of the paper to get. The following types of IDs are su
+ - get_paper_batch | 
+Get details about a list of papers by their ids.
+
+Args:
+    ids: The paper ids to get. The following types of IDs are s
+ - get_citations | 
+Get details about the papers that cite this paper (i.e. papers in whose bibliography this paper appears)
+
+Args:
+    pap
+ - search_authors_by_name | 
+Search for authors by name.
+
+Args:
+    name: The name to search for.
+
+    fields: String of comma-separated fields to i
+ - get_author_papers | 
+Get papers written by this author.
+
+Args:
+    author_id: The id of the author to get papers for.
+
+    paper_fields: Str
+ - search_papers_by_relevance | 
+Search for papers by keyword relevance.
+
+Args:
+    keyword: The keyword to search for.
+
+    fields: String of comma-sep
+ - search_paper_by_title | 
+Search for papers by title.
+
+Args:
+    title: The title to search for.
+
+    fields: String of comma-separated fields to
+ - snippet_search | 
+Search for text snippets that most closely match the query.
+
+Text snippets are excerpts of approximately 500 words, dra
+
+Test queries:
+1. Find recent papers about large language model agents
+2. Who wrote Attention is All You Need and what else have they published?
+3. What papers cite the original BERT paper?
+4. Summarize the references used in the ReAct paper
+
+Enter a query (blank to run first test, 'quit' to exit): Find recent papers about large language model agents
+[MODEL] Requested tool: search_papers_by_relevance with args: {"keyword": "large language model agents", "limit": 5, "fields": "title,authors,publicationDate,url"}
+[ASTA] Calling tool: search_papers_by_relevance with args: {"keyword": "large language model agents", "limit": 5, "fields": "title,authors,publicationDate,url"}
+
+[ASSISTANT ANSWER]
+Here are some recent papers about large language model agents:
+
+1. **[InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents](https://www.semanticscholar.org/paper/c8eee9766f0968e8f1b1be0731bc70b85be0ac97)**
+   - **Authors**: Qiusi Zhan, Zhixiang Liang, Zifan Ying, Daniel Kang
+   - **Publication Date**: March 5, 2024
+
+2. **[Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://www.semanticscholar.org/paper/9df0947ec8a14c43e69f3b72ece5e9af2b8e8215)**
+   - **Authors**: Sikuan Yan, Xiufeng Yang, Zuchao Huang, Ercong Nie, Zifeng Ding, Zonggen Li, Xiaowen Ma, Hinrich Schutze, Volker Tresp, Yunpu Ma
+   - **Publication Date**: August 27, 2025
+
+3. **[A Survey of Large Language Model Agents for Question Answering](https://www.semanticscholar.org/paper/79f2dcea1f249c62230f5483d0b08ebb775d6ca5)**
+   - **Author**: Murong Yue
+   - **Publication Date**: March 24, 2025
+
+4. **[TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents](https://www.semanticscholar.org/paper/c1b55449e740b6c806db0bf37f70043f3e6a3f13)**
+   - **Authors**: Geon Lee, Wenchao Yu, Kijung Shin, Wei Cheng, Haifeng Chen
+   - **Publication Date**: February 17, 2025
+
+5. **[Large language model agents can use tools to perform clinical calculations](https://www.semanticscholar.org/paper/c1285920c74b302b488b9a3261fe96d78b07fa18)**
+   - **Authors**: Alex J. Goodell, Simon N. Chu, D. Rouholiman, Larry F. Chu
+   - **Publication Date**: March 17, 2025
+
+These papers cover various aspects of large language model agents, including benchmarking, memory management, and applications in clinical settings.
+
+Enter a query (blank to run first test, 'quit' to exit): Who wrote Attention is All You Need and what else have they published?
+[MODEL] Requested tool: search_paper_by_title with args: {"title": "Attention is All You Need", "fields": "url"}
+[ASTA] Calling tool: search_paper_by_title with args: {"title": "Attention is All You Need", "fields": "url"}
+[MODEL] Requested tool: get_citations with args: {"paper_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776", "fields": "authors", "limit": 1}
+[ASTA] Calling tool: get_citations with args: {"paper_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776", "fields": "authors", "limit": 1}
+[MODEL] Requested tool: get_citations with args: {"paper_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776", "fields": "authors", "limit": 100}
+[ASTA] Calling tool: get_citations with args: {"paper_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776", "fields": "authors", "limit": 100}
+[MODEL] Requested tool: get_citations with args: {"paper_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776", "fields": "authors", "limit": 100}
+[ASTA] Calling tool: get_citations with args: {"paper_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776", "fields": "authors", "limit": 100}
+[MODEL] Requested tool: get_author_papers with args: {"author_id": "2151301422", "paper_fields": "url,year,authors", "limit": 10}
+[ASTA] Calling tool: get_author_papers with args: {"author_id": "2151301422", "paper_fields": "url,year,authors", "limit": 10}
+
+[ASSISTANT ANSWER]
+The paper "Attention is All You Need" was authored by **Guangjun Li**, **Qinghua Huang**, and **Xiao-Feng Dong**. 
+
+Here are some other publications by Guangjun Li:
+
+1. **[Paper Title](https://www.semanticscholar.org/paper/60ea4b1b13cc225ffea67cdb5eefbb9c4d1ba2d6)** (2026)
+   - Co-authors: Xiaoduo Zeng, Jiajia Li, Guanlin Li, Qinghua Huang
+
+2. **[Paper Title](https://www.semanticscholar.org/paper/e0303d2116dea2125aa7b17f4c5fbb5a910411c2)** (2026)
+   - Co-authors: Qinghua Huang, Xiao-Feng Dong
+
+3. **[Paper Title](https://www.semanticscholar.org/paper/21a6b89592b713f1ae005a18f3128b47630734f9)** (2025)
+   - Co-authors: Qinghua Huang, Wei Wang, Longzhong Liu
+
+4. **[Paper Title](https://www.semanticscholar.org/paper/8faa61a36a2cf2df572bdb111d87ed500a7b4339)** (2025)
+   - Co-authors: Qinghua Huang, Wei Wang, Longzhong Liu
+
+5. **[Paper Title](https://www.semanticscholar.org/paper/afd668a3329276a5ec0f393e4d81270cb2a6da52)** (2024)
+   - Co-authors: Qinghua Huang, Wei Wang, Longzhong Liu
+
+6. **[Paper Title](https://www.semanticscholar.org/paper/8a39c4d9badf0e9aedc74f229d47344b7acc8d03)** (2023)
+   - Co-authors: Dehu Jin, Qiwen Yu, Meng Qi
+
+7. **[Paper Title](https://www.semanticscholar.org/paper/f33481ee59abf59b5a3f5fe2f0dd8b593095c3fd)** (2018)
+   - Co-authors: Jinping Feng, Wei Wang, Xun Liang
+
+8. **[Paper Title](https://www.semanticscholar.org/paper/96610d7eea9908ed16474e74772286242dded1af)** (2016)
+   - Co-authors: Kai Zhu, Wei Wang, Xuelian Yao
+
+If you need more details about any specific paper or author, feel free to ask!
+
+Enter a query (blank to run first test, 'quit' to exit): What papers cite the original BERT paper?
+[MODEL] Requested tool: get_citations with args: {"paper_id": "DOI:10.18653/v1/N18-3011", "fields": "title,authors,publicationDate,url", "limit": 100}
+[ASTA] Calling tool: get_citations with args: {"paper_id": "DOI:10.18653/v1/N18-3011", "fields": "title,authors,publicationDate,url", "limit": 100}
+
+[ASSISTANT ANSWER]
+Here are some papers that cite the original BERT paper:
+
+1. **[Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](https://www.semanticscholar.org/paper/04b58810cedde8a22bf3f6f49d22bfa4511e4d6f)**  
+   - **Authors**: Yujun Wu, Dongxu Zhang, Xinchen Li, Jinhang Xu, Yiling Duan, Yumou Liu, Jia Pan, Qi Zhu, Xuanhe Zhou, Jingxuan Wei, Siyuan Li, Jintao Chen, Conghui He, Cheng Tan  
+   - **Publication Date**: April 30, 2026
+
+2. **[SciImpact: A Multi-Dimensional, Multi-Field Benchmark for Scientific Impact Prediction](https://www.semanticscholar.org/paper/e93838bcb551bb70d557ad09f32669ab93c4452e)**  
+   - **Authors**: Hangxiao Zhu, Yuyu Zhang, Ping Nie, Yu Zhang  
+   - **Publication Date**: April 18, 2026
+
+3. **[ResearchEVO: An End-to-End Framework for Automated Scientific Discovery and Documentation](https://www.semanticscholar.org/paper/1b55f17adfb87157bb3e8f2c1a5e5f1b449a43b0)**  
+   - **Authors**: Zhe Zhao, Haibin Wen, Jiaming Ma, Jiachang Zhan, Tianyi Xu, Ye Wei, Qingfu Zhang  
+   - **Publication Date**: April 7, 2026
+
+4. **[Diegetic and object-based spatial audio in cinematic VR: a PRISMA-Guided systematic review with a functional taxonomy and validation framework](https://www.semanticscholar.org/paper/966662b18fc5c4a6e29a06f56975dbdd44ab63eb)**  
+   - **Authors**: Vimala Perumal, Zeeshan Jawed Shah  
+   - **Publication Date**: March 10, 2026
+
+5. **[Dyadic similarity in individual differences: a meta-analysis of surface- and deep-level similarity, and work outcomes](https://www.semanticscholar.org/paper/2069976906ea5fe534eaac8a34a7c27b9c5eebec)**  
+   - **Authors**: S. Condrea, D. Iliescu  
+   - **Publication Date**: February 25, 2026
+
+These are just a few examples, and many more papers have cited the original BERT paper. If you need more specific details or additional papers, feel free to ask!
+
+Enter a query (blank to run first test, 'quit' to exit): quit

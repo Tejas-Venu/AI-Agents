@@ -1,0 +1,18 @@
+Drill 1 — search_papers: top 5 for 'large language model agents'
+
+1. InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents (2024)
+2. Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning (2025)
+3. A Survey of Large Language Model Agents for Question Answering (2025)
+4. TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents (2025)
+5. Large language model agents can use tools to perform clinical calculations (2025)
+
+Drill 2 — get_citations for ARXIV:1810.04805 (2023 onward)
+
+Total citing items parsed: 200
+1. Perplexity and pseudo-perplexity as objective measures of linguistic deficits in schizophrenia: Evidence from a Korean-Speaking cohort
+2. NeuralMetric: An accurate and efficient real-time safety metric for automated driving systems
+3. Leveraging semantic fusion and generative reasoning using large language models for context-aware and explainable sexism detection
+4. Rumor detection based on the synergy of multi-scale spectral representation and cross-modal graph convolutional reasoning
+5. Efficient spectral-temporal reconstruction of long-term satellite time series via temporal segments and mask-informed embedding
+
+Drill 3 — get_references for ARXIV:2210.03629 (sorted by year ascending)
