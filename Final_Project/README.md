@@ -158,6 +158,14 @@ Runs are written as JSONL, one record per question. Each record can include:
 - verifier output
 - baselines and tie-break information
 
+## Demo Screenshots
+
+### Input
+![Home](images/int.png)
+
+### Judge Output
+![Judge](images/out.png)
+
 ## Notes
 
 - The judge prompt emphasizes reasoning quality, mechanism coverage, coherence and depth.
