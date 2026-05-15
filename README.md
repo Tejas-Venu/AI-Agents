@@ -40,3 +40,7 @@ Systematically evaluates RAG configurations including chunk size, overlap, top-k
 Develops a multi-turn image chat agent using LLaVA and LangGraph, and a video surveillance system that detects person entry/exit events from video frames using vision-language reasoning.All code, results, and analysis for the Vision-Language Model assignments (image chat agent and video surveillance system) are located in the **Topic6VLM** folder, with full documentation included in its README.
 
 ---
+
+## Final Project — Cognitive Court (Model Reasoning Arena)
+
+Builds a multi-model scientific reasoning evaluation system that compares answers from different LLMs (Qwen, Mistral, Llama), evaluates them using a judge model, and optionally verifies claims with a fact-checking verifier. The system supports both standard concise answers and structured chain-of-thought reasoning, and ranks responses based on correctness, mechanism coverage, logical coherence, and explanatory depth. It also includes a Streamlit-based interactive interface for real-time comparison and visualization of model performance. All source code, outputs, and analysis for the final project are located in the Final_Project folder, with full details provided in its dedicated README.
