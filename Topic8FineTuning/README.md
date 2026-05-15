@@ -232,8 +232,8 @@ After training:
 
 | Model | Accuracy |
 |-------|-----------|
-| Base Model | ~37% |
-| Fine-Tuned Model | ~87% |
+| Base Model | 42% |
+| Fine-Tuned Model | 92.5% |
 
 The fine-tuned model showed major improvements in:
 - SQL syntax generation
