@@ -41,6 +41,17 @@ Develops a multi-turn image chat agent using LLaVA and LangGraph, and a video su
 
 ---
 
+## Topic 7 — Multi-Agent Communication and MCP Systems
+
+Implements both Agent-to-Agent (A2A) communication systems and Model Context Protocol (MCP)-based research agents. The A2A project builds a distributed trivia tournament framework where autonomous agents register themselves through a shared registry, receive tasks through HTTP endpoints, and compete by answering trivia questions across multiple categories. The system supports both broadcast-based communication and smart routing using TF-IDF similarity over agent descriptions and skills. 
+
+---
+
+## Topic 8 — Fine-Tuning Llama for Text-to-SQL Generation
+
+Implements parameter-efficient fine-tuning of `meta-llama/Llama-3.2-1B` for Text-to-SQL generation using LoRA adapters. The project explores prompt engineering, schema grounding, SQL generation, execution-based evaluation, and generalization to unseen database schemas. Training examples were constructed from database schemas, natural language questions, and ground-truth SQL queries, while loss masking techniques ensured that only SQL completion tokens contributed to training loss.
+
+---
 ## Final Project — Cognitive Court (Model Reasoning Arena)
 
 Builds a multi-model scientific reasoning evaluation system that compares answers from different LLMs (Qwen, Mistral, Llama), evaluates them using a judge model, and optionally verifies claims with a fact-checking verifier. The system supports both standard concise answers and structured chain-of-thought reasoning, and ranks responses based on correctness, mechanism coverage, logical coherence, and explanatory depth. It also includes a Streamlit-based interactive interface for real-time comparison and visualization of model performance. All source code, outputs, and analysis for the final project are located in the Final_Project folder, with full details provided in its dedicated README.
